@@ -1,0 +1,190 @@
+﻿@model ModelClasses.ViewModel.CartIndexVM
+
+@if (User.IsInRole("Admin"))
+{
+    @if (Model.productList.Count() > 0)
+    {
+        <h4 class="text-info text-center pb-2">
+            <strong>Your cart items</strong>
+        </h4>
+
+        <div class="PaddingAll" style="border:1px solid red">
+            <table class="table table-striped table-bordered table-dark rounded"
+                   style="border-radius: 7px; overflow: hidden; box-shadow: 0 2px 4px 0 blue, 0 6px 20px 0 rgba(0, 0, 0, 0.19)">
+                <thead class="table-danger text-center">
+                    <tr>
+                        <th>Image</th>
+                        <th>Product Name</th>
+                        <th>Quantity</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.productList)
+                    {
+                        <tr>
+                            <td width="30%">
+                                <div class="d-flex justify-content-center">
+                                    <a asp-action="Details" asp-controller="Home" asp-route-id="@item.product.Id">
+                                        <img src="~/Images/@item.product.HomeImgUrl" height="100" width="100" />
+                                    </a>
+                                </div>
+                            </td>
+                            <td width="30%">@item.product.Name</td>
+                            <td width="35%">
+                                <div class="row d-flex justify-content-center">
+                                    <div class="col-lg-auto col-md-auto col-sm-auto">
+                                        <a asp-action="AddToCart" asp-controller="Cart" asp-route-productId="@item.ProductId" asp-route-returnUrl="Yes" class="btn btn-success">
+                                            <i class="fas fa-plus"></i>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-auto col-md-auto col-sm-auto font-weight-bold">
+                                        <label>@item.Quantity * @item.product.Price₫</label>
+                                    </div>
+                                    <div class="col-lg-auto col-md-auto col-sm-auto">
+                                        <a asp-action="MinusAnItem" asp-controller="Cart" asp-route-productId="@item.ProductId" class="btn btn-warning">
+                                            <i class="fas fa-minus"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </td>
+                            <td width="5%">
+                                <a asp-action="DeleteAnItem" asp-route-productId="@item.ProductId" class="btn btn-danger">
+                                    <i class="fas fa-trash"></i>
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <div class="text-end">
+                <a asp-action="orderDetailPreview" asp-controller="Order" asp-route-id="@Model.productList.FirstOrDefault()?.userId" class="btn btn-success">
+                    Order Requesting
+                </a>
+            </div>
+        </div>
+    }
+    else
+    {
+        <h2 class="text-warning font-weight-bold">No item in the cart, please add</h2>
+    }
+}
+else
+{
+    <main class="main-content">
+        <div class="breadcrumb-area breadcrumb-height" data-bg-image="@Url.Content("~/greenoasisassets/images/breadcrumb/bg/1-1-1919x388.jpg")">
+            <div class="container h-100">
+                <div class="row h-100">
+                    <div class="col-lg-12">
+                        <div class="breadcrumb-item">
+                            <h2 class="breadcrumb-heading">Giỏ Hàng</h2>
+                            <ul>
+                                <li><a asp-area="" asp-controller="Home" asp-action="Index">Trang Chủ</a></li>
+                                <li>Giỏ Hàng</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="cart-area section-space-y-axis-100">
+            <div class="container">
+                @if (Model.productList.Count() > 0)
+                {
+                    <form action="javascript:void(0)">
+                        <div class="table-content table-responsive">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th class="product_remove">Xoá</th>
+                                        <th class="product-thumbnail">Hình Ảnh</th>
+                                        <th class="cart-product-name">Sản Phẩm</th>
+                                        <th class="product-price">Đơn Giá</th>
+                                        <th class="product-quantity">Số Lượng</th>
+                                        <th class="product-subtotal">Tạm Tính</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model.productList)
+                                    {
+                                        <tr>
+                                            <td class="product_remove">
+                                                <a asp-action="DeleteAnItem" asp-controller="Cart" asp-route-productId="@item.ProductId">
+                                                    <i class="pe-7s-close"></i>
+                                                </a>
+                                            </td>
+                                            <td class="product-thumbnail">
+                                                <a asp-action="Details" asp-controller="Home" asp-route-id="@item.product.Id">
+                                                    <img src="~/Images/@item.product.HomeImgUrl" width="112" height="124" alt="@item.product.Name" />
+                                                </a>
+                                            </td>
+                                            <td class="product-name">
+                                                <a>@item.product.Name</a>
+                                            </td>
+                                            <td class="product-price">
+                                                <span class="amount">@item.product.Price₫</span>
+                                            </td>
+                                            <td class="quantity">
+                                                <div class="quantity-control">
+
+                                                    <!-- Nút giảm -->
+                                                    <a asp-controller="Cart" asp-action="MinusAnItem" asp-route-productId="@item.ProductId" class="quantity-btn">−</a>
+
+                                                    <!-- Hiển thị số lượng -->
+                                                    <span class="quantity-display">@item.Quantity</span>
+
+                                                    <!-- Nút tăng -->
+                                                    <a asp-controller="Cart" asp-action="AddToCart" asp-route-productId="@item.ProductId" asp-route-returnUrl="Yes" class="quantity-btn">+</a>
+                                                </div>
+                     
+                                            </td>
+                                            <td class="product-subtotal"><span class="amount"><label>@item.Quantity * @item.product.Price₫</label></span></td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="coupon-all">
+                                    <div class="coupon">
+                                        <input id="coupon_code" class="input-text" placeholder="Nhập mã giảm" type="text">
+                                        <input class="button mt-xxs-30" value="Áp dụng" type="submit">
+                                    </div>
+                                    <div class="coupon2">
+                                        <input class="button" value="Cập nhật đơn hàng" type="submit">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-5 ml-auto">
+                                <div class="cart-page-total">
+                                    <a asp-action="orderDetailPreview" asp-controller="Order" asp-route-id="@Model.productList.FirstOrDefault()?.userId">Tiến hành thanh toán</a>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                }
+                else
+                {
+                    <h3 class="text-warning text-center">Giỏ hàng trống, hãy thêm sản phẩm vào!</h3>
+                    <div class="row">
+                        <div class="col-md-5 ml-auto">
+                            <div class="cart-page-total">
+                                <a asp-action="orderDetailPreview" asp-controller="Order" asp-route-id="@Model.productList.FirstOrDefault()?.userId">Tiến hành thanh toán</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </main>
+	@section Scripts {
+	<script src="~/js/usercart.js"></script>
+    }
+}

@@ -1,0 +1,202 @@
+﻿@model ModelClasses.ViewModel.RegisterVM
+
+
+<main class="main-content">
+    <div class="breadcrumb-area breadcrumb-height" data-bg-image="@Url.Content("~/greenoasisassets/images/breadcrumb/bg/1-1-1919x388.jpg")">
+        <div class="container h-100">
+            <div class="row h-100">
+                <div class="col-lg-12">
+                    <div class="breadcrumb-item">
+                        <h2 class="breadcrumb-heading">Trang Đăng Ký</h2>
+                        <ul>
+                            <li>
+                                <a asp-area="" asp-controller="Home" asp-action="Index">Trang chủ</a>
+                            </li>
+                            <li>Đăng ký</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Register Modal -->
+    <div class="register-modal">
+        <div class="register-dialog">
+            <div class="register-content">
+
+                <!-- Register Form -->
+                <div class="register-body">
+                    <div class="register-box">
+                        <h2 class="register-title">Đăng ký</h2>
+
+                        <form asp-action="Register" asp-controller="Account" method="post">
+                            <div asp-validation-summary="ModelOnly"></div>
+
+                            <div class="form-group">
+                                <input asp-for="applicationUser.FirstName" class="form-control" placeholder="Nhập Họ" />
+                                <span asp-validation-for="applicationUser.FirstName"></span>
+                            </div>
+                            <div class="form-group">
+                                <input asp-for="applicationUser.LastName" class="form-control" placeholder="Nhập Tên" />
+                                <span asp-validation-for="applicationUser.LastName"></span>
+                            </div>
+                            <div class="form-group">
+                                <input asp-for="UserName" class="form-control" placeholder="Nhập Username" />
+                                <span asp-validation-for="UserName"></span>
+                            </div>
+                            <div class="form-group">
+                                <input asp-for="Email" class="form-control" placeholder="Nhập Email" />
+                                <span asp-validation-for="Email"></span>
+                            </div>
+                            <div class="form-group">
+                                <input asp-for="applicationUser.Address" class="form-control" placeholder="Nhập Địa Chỉ" />
+                                <span asp-validation-for="applicationUser.Address"></span>
+                            </div>
+                            <div class="form-group">
+                                <input asp-for="Password" class="form-control" placeholder="Nhập Mật Khẩu" />
+                                <span asp-validation-for="Password"></span>
+                            </div>
+                            <div class="form-group">
+                                <input asp-for="ConfirmPassword" class="form-control" placeholder="Xác Nhận Mật Khẩu" />
+                                <span asp-validation-for="ConfirmPassword"></span>
+                            </div>
+                            <div class="form-group">
+                                <button type="submit" class="btn-submit">Đăng ký</button>
+                            </div>
+                        </form>
+
+                        <p class="register-or">Hoặc</p>
+
+                        <div class="social-login">
+                            <button type="button" class="btn-social btn-facebook">
+                                <i class="fab fa-facebook-f me-2"></i> Tiếp tục với Facebook
+                            </button>
+                            <form asp-controller="ExternalAuth" asp-action="ExternalLogin" method="get">
+                                <input type="hidden" name="provider" value="Google" />
+                                <input type="hidden" name="returnUrl" value="@ViewData["returnUrl"]" />
+                                <button type="submit" class="btn btn-social btn-google">
+                                    <i class="fab fa-google me-2"></i> Tiếp tục với Google
+                                </button>
+                            </form>
+                        </div>
+
+                        <p class="text-center mt-3">
+                            Bằng việc tiếp tục, bạn đồng ý với Green Oasis về
+                            <a href="#" class="link">Điều khoản dịch vụ</a> và
+                            <a href="#" class="link">Chính sách bảo mật</a>.
+                        </p>
+                        <hr class="w-50 mx-auto">
+                        <p class="text-center">
+                            Đã có tài khoản? <a class="login-back text-center" asp-action="Login" asp-controller="Account">Đăng nhập</a>
+                        </p>
+                    </div>
+                </div>
+                <!-- Register Form End -->
+            </div>
+        </div>
+    </div>
+    <!--form end-->
+</main>
+<!-- Main Content Area End Here -->
+
+
+
+@* <div class="d-flex justify-content-center align-items-center vh-100"
+     style="
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+     ">  
+</div>
+
+
+<div class="row p-5">
+    <h3 class="text-dark fw-bold text-center"><strong>Registration form</strong></h3>
+
+    <div class="col-12 border-2 border-success" style="border:solid">
+        <form asp-action="Register" asp-controller="Account" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="row p-2">
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <strong><label asp-for="applicationUser.FirstName"></label></strong>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-12">
+                    <input asp-for="applicationUser.FirstName" class="form-control" />
+                    <span asp-validation-for="applicationUser.FirstName" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row p-2">
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <strong><label asp-for="applicationUser.LastName"></label></strong>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-12">
+                    <input asp-for="applicationUser.LastName" class="form-control" />
+                    <span asp-validation-for="applicationUser.LastName" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row p-2">
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <strong><label asp-for="UserName"></label></strong>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-12">
+                    <input asp-for="UserName" class="form-control" />
+                    <span asp-validation-for="UserName" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row p-2">
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <strong><label asp-for="Email"></label></strong>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-12">
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row p-2">
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <strong><label asp-for="applicationUser.Address"></label></strong>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-12">
+                    <input asp-for="applicationUser.Address" class="form-control" />
+                    <span asp-validation-for="applicationUser.Address" class="text-danger"></span>
+                </div>
+
+            <div class="row p-2">
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <strong><label asp-for="Password">Password</label></strong>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-12">
+                    <input asp-for="Password" class="form-control" placeholder="not more than 8 words" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row p-2">
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <strong><label asp-for="ConfirmPassword">Confirm Password</label></strong>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-12">
+                    <input asp-for="ConfirmPassword" class="form-control" placeholder="Use the same password" />
+                    <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="p-2">
+                <button type="submit" class="btn btn-light btn-outline-danger form-control">Submit</button>
+            </div>
+        </form>
+    </div>
+</div>
+ *@
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

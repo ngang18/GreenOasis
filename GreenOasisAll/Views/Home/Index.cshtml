@@ -1,0 +1,570 @@
+﻿@model ModelClasses.ViewModel.HomePageVM
+
+@if (User.IsInRole("Admin"))
+{
+    <div class="bg-light border rounded" style="margin: 20px 0px 2px 0px">
+        <div class="text-end">
+            <form asp-action="Index" method="get">
+                <div class="row m-2">
+                    <div class="col-md-6 col-lg-8 col-sm-12">
+                        <h6 class="text-info text-center font-weight-bold">
+							Chào mừng @User.Identity.Name đến với trang quản trị của Green Oasis
+                        </h6>
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-sm-12">
+                        <div class="d-flex justify-content-end">
+                            <input asp-for="searchByName" placeholder="search by name" class="form-control rounded-left" />
+                            <button type="submit" class="btn btn bg-primary text-white font-weight-bold">
+                                <i class="fas fa-search"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <a asp-action="Index">Back to Full List</a>
+            </form>
+        </div>
+    </div>
+    <!-- Categories -->
+    <div class="col-2 bg-white border-secondary d-none d-sm-block" style="border: solid 1px black">
+        <p class="text-success"><strong>Search by Categories</strong></p>
+        @if (Model.Categories.Count() > 0)
+        {
+            <div>
+                @foreach (var item in Model.Categories)
+                {
+                    <div class="pb-2">
+                        <strong>
+                            <a asp-action="Index" asp-route-searchByCategory="@item.Name" class="text-info">
+                                <i class="fa fa-hand-point-right fa-lg" style="color: #22511f;">&nbsp;</i>@item.Name
+                            </a>
+                        </strong>
+                    </div>
+                }
+            </div>
+        }
+        <hr />
+    </div>
+    <!-- Product List -->
+    @if (Model.ProductList.Count() > 0)
+    {
+        <div class="row d-flex justify-content-center">
+            @foreach (var item in Model.ProductList)
+            {
+                <div class="col-lg-auto col-md-auto col-sm-auto m-1 py-2">
+                    <div class="card single-item" style="border-bottom: 1px solid lightgray; height: 270px; width: 250px; box-shadow: 0 2px 0 blue, 0 6px 2px rgba(0, 6, 0, 0.19);">
+                        <div class="img-container">
+                            <a asp-action="Details" asp-controller="Product" asp-route-Id="@item.Id">
+                                <img src="~/images/@item.HomeImgUrl" class="card-img-top rounded" style="width: 250px; height: 250px;" />
+                            </a>
+                            <h3>
+                                <span class="store-item-icon">$@item.Price</span>
+                            </h3>
+                        </div>
+                        <div class="card-body bg-light">
+                            <div class="row card-text text-capitalize">
+                                <div class="col-lg-10 col-md-9 col-sm-6">
+                                    <p class="text-success" id="store-item-name"><strong>@item.Name</strong></p>
+                                </div>
+                                <div class="col-lg-1 col-md-3 col-sm-6 text-end">
+                                    <a asp-action="AddToCart" , asp-controller="Cart" asp-route-productId="@item.Id">
+                                        <strong id="store-item-price" class="font-weight-bold"><i class="fas fa-solid fa-plus"></i></strong>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+}
+else
+{
+    <!-- Begin Slider Area -->
+    <div class="slider-area">
+         <!-- Main Slider -->
+        <div class="swiper-container main-slider swiper-arrow with-bg_white">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide animation-style-01">
+                    <div class="slide-inner style-1 bg-height" data-bg-image="@Url.Content("~/greenoasisassets/images/slider/bg/1-1.jpg")">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-6 order-2 order-lg-1 align-self-center">
+                                    <div class="slide-content text-black">
+                                        <span class="offer">New Collection</span>
+                                        <h2 class="title">Chậu Sen Đá Couple</h2>
+                                        <p class="short-desc">Green Oasis - Điểm nhấn cho góc nhỏ của bạn</p>
+                                        <div class="btn-wrap">
+                                            <a class="btn btn-custom-size xl-size btn-pronia-primary" href="shop-1.html">Khám Phá Ngay</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-8 offset-md-2 offset-lg-0 order-1 order-lg-2">
+                                    <div class="inner-img">
+                                        <div class="scene fill">
+                                            <div class="expand-width" data-depth="0.2">
+                                                <img src="~/greenoasisassets/images/slider/inner-img/1-1-524x617.png" alt="Inner Image">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide animation-style-01">
+                    <div class="slide-inner style-1 bg-height" data-bg-image="@Url.Content("~/greenoasisassets/images/slider/bg/1-1.jpg")">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-6 order-2 order-lg-1 align-self-center">
+                                    <div class="slide-content text-black">
+                                        <span class="offer">New Collection</span>
+                                        <h2 class="title">Sen Đá Mix Trái Tim</h2>
+                                        <p class="short-desc">Green Oasis - Điểm nhấn cho góc nhỏ của bạn</p>
+                                        <div class="btn-wrap">
+                                            <a class="btn btn-custom-size xl-size btn-pronia-primary" href="shop-1.html">Khám Phá Ngay</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-8 offset-md-2 offset-lg-0 order-1 order-lg-2">
+                                    <div class="inner-img">
+                                        <div class="scene fill">
+                                            <div class="expand-width" data-depth="0.2">
+                                                <img src="~/greenoasisassets/images/slider/inner-img/1-2-524x617.png" alt="Inner Image">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Add Pagination -->
+            <div class="swiper-pagination d-md-none"></div>
+
+            <!-- Add Arrows -->
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+        </div>
+    </div>
+    <!-- Slider Area End Here -->
+    <!-- Begin Shipping Area -->
+    <div class="shipping-area section-space-top-100">
+        <div class="container">
+            <div class="shipping-bg">
+                <div class="row shipping-wrap">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="shipping-item">
+                            <div class="shipping-img">
+                                <img src="~/greenoasisassets/images/shipping/icon/car.png" alt="Shipping Icon">
+                            </div>
+                            <div class="shipping-content">
+                                <h2 class="title">Giao Hàng Toàn Quốc</h2>
+                                <p class="short-desc mb-0">Phí vận chuyển đồng giá 20.000 cho mọi đơn hàng</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+                        <div class="shipping-item">
+                            <div class="shipping-img">
+                                <img src="~/greenoasisassets/images/shipping/icon/card.png" alt="Shipping Icon">
+                            </div>
+                            <div class="shipping-content">
+                                <h2 class="title">Hoàn Tiền 100%</h2>
+                                <p class="short-desc mb-0">Nếu sản phẩm bị hư hại hoặc vỡ khi giao đến bạn</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
+                        <div class="shipping-item">
+                            <div class="shipping-img">
+                                <img src="~/greenoasisassets/images/shipping/icon/service.png" alt="Shipping Icon">
+                            </div>
+                            <div class="shipping-content">
+                                <h2 class="title">Bộ Sưu Tập Cây Cảnh</h2>
+                                <p class="short-desc mb-0">Đa dạng loại cây cho không gian của bạn</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Shipping Area End Here -->
+    <!-- Begin Product Area -->
+    <div class="product-area section-space-top-100">
+        <div class="container">
+            <div class="section-title-wrap">
+                <h2 class="section-title mb-0">SẢN PHẨM NỔI BẬT</h2>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="nav product-tab-nav tab-style-1" id="myTab" role="tablist">
+                        @for (int i = 0; i < Model.Categories.Count(); i++)
+                        {
+                            var category = Model.Categories.ElementAt(i);
+                            string tabId = category.Name.ToLower().Replace(" ", "-");
+                            string activeClass = i == 0 ? "active" : "";
+                            string selected = i == 0 ? "true" : "false";
+
+                            <li class="nav-item" role="presentation">
+                                <a class="@activeClass" id="@tabId-tab" data-bs-toggle="tab" href="#@tabId" role="tab" aria-controls="@tabId" aria-selected="@selected">
+                                    @category.Name
+                                </a>
+                            </li>
+                        }
+                    </ul>
+
+                    <div class="tab-content" id="myTabContent">
+                        @for (int i = 0; i < Model.Categories.Count(); i++)
+                        {
+                            var category = Model.Categories.ElementAt(i);
+                            string tabId = category.Name.ToLower().Replace(" ", "-");
+                            string activeClass = i == 0 ? "show active" : "";
+
+                            <div class="tab-pane fade @activeClass" id="@tabId" role="tabpanel" aria-labelledby="@tabId-tab">
+                                <div class="product-item-wrap row">
+                                    @foreach (var item in Model.ProductList.Where(p => p.CategoryId == category.Id))
+                                    {
+                                        <div class="col-xl-3 col-md-4 col-sm-6">
+                                            <div class="product-item">
+                                                <div class="product-img">
+                                                    <a asp-action="Details" asp-controller="Product" asp-route-Id="@item.Id">
+                                                        <img class="primary-img" src="~/images/@item.HomeImgUrl" alt="@item.Name" />
+                                                        <img class="secondary-img" src="~/images/@item.HomeImgUrl" alt="@item.Name" />
+                                                    </a>
+                                                    <div class="product-add-action">
+                                                        <ul>
+                                                            <li>
+                                                                <a asp-controller="Wishlist" asp-action="WishlistIndex" data-tippy="Add to wishlist">
+                                                                    <i class="pe-7s-like"></i>
+                                                                </a>
+                                                            </li>
+                                                            <li class="quuickview-btn" data-bs-toggle="modal" data-bs-target="#quickModal">
+                                                                <a href="#" data-tippy="Quickview">
+                                                                    <i class="pe-7s-look"></i>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a asp-controller="Cart" asp-action="AddToCart" asp-route-productId="@item.Id" data-tippy="Add to cart">
+                                                                    <i class="pe-7s-cart"></i>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                <div class="product-content">
+                                                    <a class="product-name" asp-action="Details" asp-controller="Product" asp-route-Id="@item.Id">@item.Name</a>
+                                                    <div class="price-box pb-1">
+                                                        <span class="new-price">@item.Price₫</span>
+                                                    </div>
+                                                    <div class="rating-box">
+                                                        <ul>
+                                                            @for (int star = 0; star < 5; star++)
+                                                            {
+                                                                <li><i class="fa fa-star"></i></li>
+                                                            }
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    }
+                                </div>
+                            </div>
+                        }
+                    </div>
+
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Product Area End Here -->
+    <!-- Begin Banner Area -->
+    <div class="banner-area section-space-top-90">
+        <div class="container">
+            <div class="row g-min-30 g-4">
+                <div class="col-lg-8">
+                    <div class="banner-item img-hover-effect">
+                        <div class="banner-img">
+                            <img src="~/greenoasisassets/images/banner/1-1-770x300.jpg" alt="Banner Image">
+                        </div>
+                        <div class="banner-content text-position-left">
+                            <span class="collection">Bộ Sưu Tập Sen Đá</span>
+                            <h3 class="title">Phù hợp với <br> mọi không gian</h3>
+                            <div class="button-wrap">
+                                <a class="btn btn-custom-size btn-pronia-primary" href="shop-1.html">Mua Ngay</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="banner-item img-hover-effect">
+                        <div class="banner-img">
+                            <img src="~/greenoasisassets/images/banner/1-2-370x300.jpg" alt="Banner Image">
+                        </div>
+                        <div class="banner-content text-position-center">
+                            <span class="collection">Bộ Sưu Tập Mới</span>
+                            <h3 class="title">Chậu Sứ</h3>
+                            <div class="button-wrap">
+                                <a class="btn btn-custom-size lg-size btn-pronia-primary" href="#">Mua Ngay</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="banner-item img-hover-effect">
+                        <div class="banner-img">
+                            <img src="~/greenoasisassets/images/banner/1-3-370x300.jpg" alt="Banner Image">
+                        </div>
+                        <div class="banner-content text-position-center">
+                            <span class="collection">Bộ Sưu Tập Mới</span>
+                            <h3 class="title">Chậu Đất Nung</h3>
+                            <div class="button-wrap">
+                                <a class="btn btn-custom-size lg-size btn-pronia-primary" href="#">Mua Ngay</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-8">
+                    <div class="banner-item img-hover-effect">
+                        <div class="banner-img">
+                            <img src="~/greenoasisassets/images/banner/1-4-770x300.jpg" alt="Banner Image">
+                        </div>
+                        <div class="banner-content text-position-left">
+                            <span class="collection">Bộ Sưu Tập Xương Rồng</span>
+                            <h3 class="title">Nét độc đáo cho <br> góc nhỏ của bạn</h3>
+                            <div class="button-wrap">
+                                <a class="btn btn-custom-size lg-size btn-pronia-primary" href="#">Mua Ngay</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Banner Area End Here -->
+    <!-- Begin Testimonial Area -->
+    <div class="testimonial-area section-space-top-90 section-space-bottom-95">
+        <div class="container-fluid">
+            <div class="testimonial-bg" data-bg-image="~/greenoasisassets/images/testimonial/bg/1-1-1820x443.jpg">
+                <div class="section-title-wrap">
+                    <h2 class="section-title">CẢM NHẬN CỦA KHÁCH HÀNG</h2>
+                    <p class="section-desc mb-0">
+                        Phản hồi của khách hàng là động lực lớn nhất của chúng tôi.
+                        <br> Hãy xem khách hàng nói gì về trải nghiệm của họ với Green Oasis!
+                    </p>
+                </div>
+            </div>
+            <div class="container custom-space">
+                <div class="swiper-container testimonial-slider with-bg">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide testimonial-item">
+                            <div class="user-info mb-3">
+                                <div class="user-shape-wrap">
+                                    <div class="user-img">
+                                        <img src="~/greenoasisassets/images/testimonial/user/1.png" alt="User Image">
+                                    </div>
+                                </div>
+                                <div class="user-content text-charcoal">
+                                    <h4 class="user-name mb-1">TRẦN THỊ MAI</h4>
+                                    <span class="user-occupation">Nhân viên kinh doanh</span>
+                                </div>
+                            </div>
+                            <p class="user-comment mb-6">
+                                Tôi muốn tạo một khu vườn nhỏ trên ban công, nhưng không biết bắt đầu từ đâu. Green Oasis đã giúp tôi thực hiện điều đó.
+                            </p>
+                        </div>
+                        <div class="swiper-slide testimonial-item">
+                            <div class="user-info mb-3">
+                                <div class="user-shape-wrap">
+                                    <div class="user-img">
+                                        <img src="~/greenoasisassets/images/testimonial/user/2.png" alt="User Image">
+                                    </div>
+                                </div>
+                                <div class="user-content text-charcoal">
+                                    <h4 class="user-name mb-1">NGUYỄN VĂN NAM</h4>
+                                    <span class="user-occupation">Kiến trúc sư </span>
+                                </div>
+                            </div>
+                            <p class="user-comment mb-6">
+                                Tôi rất ấn tượng với sen đá ở Green Oasis, chúng tươi tốt và khỏe mạnh. Nhân viên tư vấn tận tình, giúp tôi chọn cây phù hợp.
+                            </p>
+                        </div>
+                        <div class="swiper-slide testimonial-item">
+                            <div class="user-info mb-3">
+                                <div class="user-shape-wrap">
+                                    <div class="user-img">
+                                        <img src="~/greenoasisassets/images/testimonial/user/3.png" alt="User Image">
+                                    </div>
+                                </div>
+                                <div class="user-content text-charcoal">
+                                    <h4 class="user-name mb-1">LÊ THỊ HÀ</h4>
+                                    <span class="user-occupation">Giáo viên</span>
+                                </div>
+                            </div>
+                            <p class="user-comment mb-6">
+                                Không chỉ mua được sen đá xinh xắn, tôi còn được Green Oasis hướng dẫn tận tình về cách chăm cây và nhận nhiều mẹo hay.
+                            </p>
+                        </div>
+                    </div>
+                    <!-- Add Pagination -->
+                    <div class="swiper-pagination without-absolute"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Testimonial Area End Here -->
+    <!-- Begin Brand Area -->
+    <div class="brand-area section-space-bottom-100">
+        <div class="container">
+            <div class="brand-bg" data-bg-image="@Url.Content("~/greenoasisassets/images/brand/bg/1-1170x300.jpg")">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="swiper-container brand-slider">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <a class="brand-item" href="#">
+                                        <img src="~/greenoasisassets/images/brand/1-1.png" alt="Brand Image">
+                                    </a>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a class="brand-item" href="#">
+                                        <img src="~/greenoasisassets/images/brand/1-2.png" alt="Brand Image">
+                                    </a>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a class="brand-item" href="#">
+                                        <img src="~/greenoasisassets/images/brand/1-3.png" alt="Brand Image">
+                                    </a>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a class="brand-item" href="#">
+                                        <img src="~/greenoasisassets/images/brand/1-4.png" alt="Brand Image">
+                                    </a>
+                                </div>
+                                <div class="swiper-slide">
+                                    <a class="brand-item" href="#">
+                                        <img src="~/greenoasisassets/images/brand/1-5.png" alt="Brand Image">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Brand Area End Here -->
+    <!-- Begin Blog Area -->
+    <div class="blog-area section-space-bottom-100">
+        <div class="container">
+            <div class="section-title-wrap">
+                <h2 class="section-title mb-7">HƯỚNG DẪN CHĂM SÓC</h2>
+                <p class="section-desc">
+                    Khám phá bí quyết chăm sóc cây cảnh từ chuyên gia!
+                    <br>Chúng tôi cung cấp hướng dẫn chi tiết về tưới nước, bón phân, cắt tỉa và bảo vệ cây, giúp không gian xanh của bạn luôn tràn đầy sức sống!
+                </p>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="swiper-container blog-slider">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="blog-item">
+                                    <div class="blog-content">
+                                        <div class="blog-meta">
+                                            <ul>
+                                                <li class="author">
+                                                    <a href="#">By: Green Oasis</a>
+                                                </li>
+                                                <li class="date">24 April 2021</li>
+                                            </ul>
+                                        </div>
+                                        <h2 class="title">
+                                            <a asp-action="Blog" asp-controller="Home">6 mẹo cần lưu ý khi chăm sóc cây xương rồng</a>
+                                        </h2>
+                                        <p class="short-desc mb-7">Xương rồng là loại cây dễ trồng nhưng nếu không chăm sóc đúng cách...</p>
+                                    </div>
+                                    <div class="blog-img img-hover-effect">
+                                        <a asp-action="Blog" asp-controller="Home">
+                                            <img class="img-full" src="~/greenoasisassets/images/blog/medium-size/1-1-310x220.jpg" alt="Blog Image">
+                                        </a>
+                                        <div class="inner-btn-wrap">
+                                            <a class="inner-btn" asp-action="Blog" asp-controller="Home">
+                                                <i class="pe-7s-link"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="blog-item">
+                                    <div class="blog-content">
+                                        <div class="blog-meta">
+                                            <ul>
+                                                <li class="author">
+                                                    <a href="#">By: Green Oasis</a>
+                                                </li>
+                                                <li class="date">5 March 2025</li>
+                                            </ul>
+                                        </div>
+                                        <h2 class="title">
+                                            <a asp-action="Blog" asp-controller="Home">10 sai lầm ai cũng mắc khi chăm sóc sen đá</a>
+                                        </h2>
+                                        <p class="short-desc mb-7">Sen đá là loại cây cảnh được yêu thích nhờ vẻ đẹp độc đáo và khả năng...</p>
+                                    </div>
+                                    <div class="blog-img img-hover-effect">
+                                        <a asp-action="Blog" asp-controller="Home">
+                                            <img class="img-full" src="~/greenoasisassets/images/blog/medium-size/1-2-310x220.jpg" alt="Blog Image">
+                                        </a>
+                                        <div class="inner-btn-wrap">
+                                            <a class="inner-btn" asp-action="Blog" asp-controller="Home">
+                                                <i class="pe-7s-link"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="blog-item">
+                                    <div class="blog-content">
+                                        <div class="blog-meta">
+                                            <ul>
+                                                <li class="author">
+                                                    <a href="#">By: Green Oasis</a>
+                                                </li>
+                                                <li class="date">25 March 2025</li>
+                                            </ul>
+                                        </div>
+                                        <h2 class="title">
+                                            <a asp-action="Blog" asp-controller="Home">Cách xử lý khi sen đá bị vàng lá</a>
+                                        </h2>
+                                        <p class="short-desc mb-7">Nếu bạn nhận thấy lá sen đá chuyển sang màu vàng, đó có thể là dấu hiệu...</p>
+                                    </div>
+                                    <div class="blog-img img-hover-effect">
+                                        <a asp-action="Blog" asp-controller="Home">
+                                            <img class="img-full" src="~/greenoasisassets/images/blog/medium-size/1-3-310x220.jpg" alt="Blog Image">
+                                        </a>
+                                        <div class="inner-btn-wrap">
+                                            <a class="inner-btn" asp-action="Blog" asp-controller="Home">
+                                                <i class="pe-7s-link"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Add Arrows -->
+                        <div class="swiper-button-next"></div>
+                        <div class="swiper-button-prev"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Blog Area End Here -->
+}
+

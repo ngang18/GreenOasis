@@ -1,0 +1,184 @@
+﻿@model ModelClasses.ViewModel.MyAccountVM
+
+    <!-- Begin Main Content Area -->
+<main class="main-content">
+    <div class="breadcrumb-area breadcrumb-height" data-bg-image="@Url.Content("~/greenoasisassets/images/breadcrumb/bg/1-1-1919x388.jpg")">
+        <div class="container h-100">
+            <div class="row h-100">
+                <div class="col-lg-12">
+                    <div class="breadcrumb-item">
+                        <h2 class="breadcrumb-heading">Tài khoản của tôi</h2>
+                        <ul>
+                            <li>
+                                <a asp-controller="Home" asp-action="Index">Trang chủ</a>
+                            </li>
+                            <li>Trang tài khoản</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="account-page-area section-space-y-axis-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3">
+                    <ul class="nav myaccount-tab-trigger" id="account-page-tab" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link active" asp-controller="Home" asp-action="Index">Trang chủ</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Order" asp-action="OrderHistory">Đơn hàng</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="account-address-tab" data-bs-toggle="tab" href="#account-address" role="tab" aria-controls="account-address" aria-selected="false">Địa chỉ</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="account-details-tab" data-bs-toggle="tab" href="#account-details" role="tab" aria-controls="account-details" aria-selected="false">Đổi mật khẩu</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="account-logout-tab" asp-action="Logout" asp-controller="Account" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })" role="tab" aria-selected="false">Đăng xuất</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-9">
+                    <div class="tab-content myaccount-tab-content" id="account-page-tab-content">
+                        <div class="tab-pane fade show active" id="account-dashboard" role="tabpanel" aria-labelledby="account-dashboard-tab">
+                            <div class="myaccount-dashboard">
+                                <h3>Xin chào <b>@Model.ApplicationUser.FirstName @Model.ApplicationUser.LastName </b> </h3>
+                                <br>
+                                <div class="row">
+                                    <div class="col">
+                                        <h5 class="small-title">Email</h5>
+                                        <a>
+                                            @Model.ApplicationUser.Email
+                                        </a>
+                                    </div>
+                                    <div class="col">
+                                        <h5 class="small-title">Số điện thoại</h5>
+                                        <a>
+                                            @Model.ApplicationUser.PhoneNumber
+                                        </a>
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="row">
+                                    <div class="col">
+                                        <h5 class="small-title">Địa chỉ hóa đơn</h5>
+                                        <address>
+                                            @Model.ApplicationUser.Address
+                                        </address>
+                                    </div>
+                                    <div class="col">
+                                        <h5 class="small-title">Địa chỉ giao hàng</h5>
+                                        <address>
+                                            @Model.ApplicationUser.Address
+                                        </address>
+                                    </div>
+                                </div>
+                                <div class="single-input">
+                                    <button class="btn btn-custom-size lg-size btn-pronia-primary" type="submit">
+                                        <span>Thay đổi</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="account-orders" role="tabpanel" aria-labelledby="account-orders-tab">
+                            <div class="myaccount-orders">
+                                <h4 class="small-title">Đơn hàng của tôi</h4>
+                                <div class="table-responsive">
+                                    <table class="table table-bordered table-hover">
+                                        <tbody>
+                                            <tr>
+                                                <th>Mã đơn hàng</th>
+                                                <th>Ngày đặt hàng</th>
+                                                <th>Trạng thái</th>
+                                                <th>Tổng cộng</th>
+                                                <th></th>
+                                            </tr>
+                                            <tr>
+                                                <td><a class="account-order-id" href="#">#5364</a></td>
+                                                <td>23/03/2025</td>
+                                                <td>Đã hoàn thành</td>
+                                                <td>150,000 VNĐ cho 2 sản phẩm</td>
+                                                <td>
+                                                    <a href="#" class="btn btn-dark"><span>Chi tiết</span></a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td><a class="account-order-id" href="#">#5356</a></td>
+                                                <td>04/05/2025</td>
+                                                <td>Đang vận chuyển</td>
+                                                <td>183,000 VNĐ cho 3 sản phẩm</td>
+                                                <td>
+                                                    <a href="#" class="btn btn-dark"><span>Chi tiết</span></a>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="account-address" role="tabpanel" aria-labelledby="account-address-tab">
+                            <div class="myaccount-address">
+                                <p>Địa chỉ sau sẽ được sử dụng theo mặc định trên trang thanh toán.</p>
+                                <div class="row">
+                                    <div class="col">
+                                        <h4 class="small-title">Địa chỉ hóa đơn</h4>
+                                        <address>
+                                            @Model.ApplicationUser.Address
+                                        </address>
+                                    </div>
+                                    <div class="col">
+                                        <h4 class="small-title">Địa chỉ giao hàng</h4>
+                                        <address>
+                                            @Model.ApplicationUser.Address
+                                        </address>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="account-details" role="tabpanel" aria-labelledby="account-details-tab">
+                            <div class="myaccount-details">
+                                <form action="#" class="myaccount-form">
+                                    <div class="myaccount-form-inner">
+                                        <div class="single-input single-input-half">
+                                            <label>Họ*</label>
+                                            <input type="text">
+                                        </div>
+                                        <div class="single-input single-input-half">
+                                            <label>Tên*</label>
+                                            <input type="text">
+                                        </div>
+                                        <div class="single-input">
+                                            <label>Email*</label>
+                                            <input type="email">
+                                        </div>
+                                        <div class="single-input">
+                                            <label>Mật khẩu hiện tại</label>
+                                            <input type="password">
+                                        </div>
+                                        <div class="single-input">
+                                            <label>Mật khẩu mới</label>
+                                            <input type="password">
+                                        </div>
+                                        <div class="single-input">
+                                            <label>Xác nhận mật khẩu</label>
+                                            <input type="password">
+                                        </div>
+                                        <div class="single-input">
+                                            <button class="btn btn-custom-size lg-size btn-pronia-primary" type="submit">
+                                                <span>LƯU</span>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+<!-- Main Content Area End Here -->

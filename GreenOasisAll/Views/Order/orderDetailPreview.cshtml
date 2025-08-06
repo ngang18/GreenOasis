@@ -1,0 +1,466 @@
+﻿@model ModelClasses.ViewModel.SummaryVM
+
+@if (User.IsInRole("Admin"))
+{
+    <div class="PaddingAll bg-dark" style="border:1px solid red">
+        <form asp-action="Summary" asp-controller="Order" method="post">
+            <input asp-for="@Model.cartUserId" hidden />
+
+            <div class="row">
+                <!-- Customer Details -->
+                <div class="col-lg-6 col-md-5 col-sm-12 p-2">
+                    <div class="p-2 bg-secondary text-white fw-bold shadowingBorder">
+                        <h6 class="text-info">Customer Details</h6>
+                        <hr />
+                        <div asp-validation-summary="ModelOnly"></div>
+
+                        <div class="row mb-2">
+                            <div class="col-5">
+                                <label asp-for="orderSummary.Name"></label>
+                            </div>
+                            <div class="col-7">
+                                <input asp-for="orderSummary.Name" class="form-control" />
+                                <span asp-validation-for="orderSummary.Name" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="row mb-2">
+                            <div class="col-5">
+                                <label asp-for="orderSummary.PhoneNumber"></label>
+                            </div>
+                            <div class="col-7">
+                                <input asp-for="orderSummary.PhoneNumber" class="form-control" required />
+                                <span asp-validation-for="orderSummary.PhoneNumber" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="row mb-2">
+                            <div class="col-5">
+                                <label asp-for="orderSummary.DeliveryStreetAddress"></label>
+                            </div>
+                            <div class="col-7">
+                                <input asp-for="orderSummary.DeliveryStreetAddress" class="form-control" />
+                                <span asp-validation-for="orderSummary.DeliveryStreetAddress" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="row mb-2">
+                            <div class="col-5">
+                                <label asp-for="orderSummary.City"></label>
+                            </div>
+                            <div class="col-7">
+                                <input asp-for="orderSummary.City" class="form-control" />
+                                <span asp-validation-for="orderSummary.City" class="text-danger"></span>
+                            </div>
+                        </div>
+
+
+                        <div class="row mb-2">
+                            <div class="col-5">
+                                <label asp-for="orderSummary.PostalCode"></label>
+                            </div>
+                            <div class="col-7">
+                                <input asp-for="orderSummary.PostalCode" class="form-control" required />
+                                <span asp-validation-for="orderSummary.PostalCode" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="row mb-2">
+                            <div class="col-5">
+                                <label asp-for="orderSummary.DateOfOrder">Date Of Order</label>
+                            </div>
+                            <div class="col-7">
+                                <label asp-for="orderSummary.DateOfOrder">
+                                    <strong class="text-warning">@DateTime.Now.ToShortDateString()</strong>
+                                </label>
+                            </div>
+                        </div>
+
+                        <div class="row mb-2">
+                            <div class="col-5">
+                                <label>Estimated Delivery Date</label>
+                            </div>
+                            <div class="col-7">
+                                <label>
+                                    <strong class="text-warning">
+                                        @DateTime.Now.AddDays(3).ToShortDateString() - @DateTime.Now.AddDays(8).ToShortDateString()
+                                    </strong>
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Shopping Cart -->
+                <div class="col-lg-6 col-md-7 col-sm-12 p-2">
+                    <div class="p-2 bg-white shadowingBorder" id="list-example">
+                        <h6 class="text-info">Shopping Cart Details</h6>
+                        <hr />
+                        @{
+                            double totalOrderPrice = 0.0;
+                        }
+                        <div class="text-center overflow-scroll" style="height:317px">
+                            @foreach (var item in Model.CartList)
+                            {
+                                <div class="row border-start-0">
+                                    <div class="col-5">
+                                        @item.product.Name
+                                    </div>
+                                    <div class="col-4 text-start">
+                                        <label class="font-weight-bold"><strong>@item.Quantity pcs * @item.product.Price₫</strong></label>
+                                    </div>
+                                    @{
+                                        double setDecimal = item.Quantity * item.product.Price;
+                                        totalOrderPrice += setDecimal;
+                                    }
+                                    <div class="col-3 text-end">
+                                        <label class="font-weight-bold"><strong>@Math.Round(setDecimal)₫</strong></label>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                        <br />
+                    </div>
+                </div>
+            </div>
+
+            <br />
+            <br />
+            <div class="row bg-warning p-2 sadowingBorder">
+                <div class="col text-end">
+                    <div class="row pb-1">
+                        <div class="col-6">
+                            <label>Subtotals:</label>
+                        </div>
+                        <div class="col-6">
+                            <strong><input class="form-control text-info text-right font-weight-bold" value="@totalOrderPrice₫" readonly /></strong>
+                        </div>
+                    </div>
+                    <div class="row pb-1">
+                        <div class="col-6">
+                            <label>Sales Tax:</label>
+                        </div>
+                        <div class="col-6">
+                            @{
+                                //double salesTax = (@Model.orderSummary.totalPrice / 100) * 8.875;
+                                double salesTax = 0.0;
+                            }
+                            <strong><input class="form-control text-info text-right font-weight-bold" value="@salesTax₫" readonly /></strong>
+                        </div>
+                    </div>
+                    <div class="row pb-1">
+                        <div class="col-6">
+                            <label>Total Bills:</label>
+                        </div>
+                        <div class="col-6">
+                            @{
+                                double Totalbills = Math.Round(totalOrderPrice + salesTax);
+                                Model.orderSummary.TotalOrderAmount = Totalbills;
+                            }
+                            <strong><input class="form-control text-info text-right font-weight-bold" id="totalBills" asp-for="@Model.orderSummary.TotalOrderAmount" readonly /></strong>
+                        </div>
+                    </div>
+
+                    <div class="row pb-1">
+                        <div class="col-6">
+                            <label>Payment Options</label>
+                        </div>
+                        <div class="col-6">
+                            <div class="text-right">
+                                <select id="choosePaymentMethod" class="form-control rounded-left">
+                                    <option value="0" class="border-success">Please select</option>
+                                    <option value="1" class="border-success">Cash</option>
+                                    <option value="2" class="border-success">Credit</option>
+                                    <option value="3" class="border-success">Checks</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <hr />
+            <div class="d-flex justify-content-end">
+                <button type="submit" class="btn btn-primary">SubmitOrder</button>
+            </div>
+        </form>
+    </div>
+}
+else
+{
+    <!-- Begin Main Content Area -->
+    <main class="main-content">
+        <div class="breadcrumb-area breadcrumb-height" data-bg-image="@Url.Content("~/greenoasisassets/images/breadcrumb/bg/1-1-1919x388.jpg")">
+            <input asp-for="@Model.cartUserId" hidden />
+            <div class="container h-100">
+                <div class="row h-100">
+                    <div class="col-lg-12">
+                        <div class="breadcrumb-item">
+                            <h2 class="breadcrumb-heading">Thanh Toán</h2>
+                            <ul>
+                                <li>
+                                    <a href="index.html">Trang Chủ</a>
+                                </li>
+                                <li>Thanh Toán</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="checkout-area section-space-y-axis-100">
+            <form asp-action="Summary" asp-controller="Order" method="post">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="coupon-accordion">
+                                <h3>Bạn đã có tài khoản? <span id="showlogin">Đăng nhập</span></h3>
+                                <div id="checkout-login" class="coupon-content">
+                                    <div class="coupon-info">
+                                        <p class="coupon-text mb-1">Vui lòng đăng nhập để tiếp tục mua hàng và theo dõi đơn hàng của bạn.</p>
+                                        <form asp-action="Summary" asp-controller="Order" method="post">
+                                            <p class="form-row-first">
+                                                <label class="mb-1">Email <span class="required">*</span></label>
+                                                <input type="text">
+                                            </p>
+                                            <p class="form-row-last">
+                                                <label>Password <span class="required">*</span></label>
+                                                <input type="text">
+                                            </p>
+                                            <p class="form-row">
+                                                <input type="checkbox" id="remember_me">
+                                                <label for="remember_me">Remember me</label>
+                                            </p>
+                                            <p class="lost-password"><a href="#">Quên mật khẩu?</a></p>
+                                        </form>
+                                    </div>
+                                </div>
+                                <h3>Bạn có mã giảm giá? <span id="showcoupon">Hãy nhấn vào đây và nhập mã</span></h3>
+                                <div id="checkout_coupon" class="coupon-checkout-content">
+                                    <div class="coupon-info">
+                                        <form action="javascript:void(0)">
+                                            <p class="checkout-coupon">
+                                                <input placeholder="Nhập mã giảm giá" type="text">
+                                                <input class="coupon-inner_btn" value="Áp dụng" type="submit">
+                                            </p>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 col-12">
+                            <div class="checkbox-form">
+                                <h3>Thông tin giao hàng</h3>
+                                <div asp-validation-summary="ModelOnly"></div>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="checkout-form-list">
+                                            <label asp-for="orderSummary.Name">Họ và tên<span asp-validation-for="orderSummary.Name" class="required">*</span></label>
+                                            <input asp-for="orderSummary.Name" placeholder="" type="text">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-12">
+                                        <div class="checkout-form-list">
+                                            <label asp-for="orderSummary.PhoneNumber">Số điện thoại <span asp-validation-for="orderSummary.PhoneNumber" class="required">*</span></label>
+                                            <input asp-for="orderSummary.PhoneNumber" type="text">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-12">
+                                        <div class="checkout-form-list">
+                                            <label asp-for="orderSummary.DeliveryStreetAddress">Địa chỉ <span asp-validation-for="orderSummary.DeliveryStreetAddress" class="required">*</span></label>
+                                            <input asp-for="orderSummary.DeliveryStreetAddress" type="text">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="checkout-form-list">
+                                            <label asp-for="orderSummary.City">Tỉnh/thành <span asp-validation-for="orderSummary.City" class="required">*</span></label>
+                                            <input asp-for="orderSummary.City" type="text">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="checkout-form-list">
+                                            <label asp-for="orderSummary.PostalCode">Mã bưu điện <span asp-validation-for="orderSummary.PostalCode" class="required">*</span></label>
+                                            <input asp-for="orderSummary.PostalCode" type="text">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="checkout-form-list">
+                                            <label asp-for="orderSummary.DateOfOrder">Ngày đặt hàng <span class="required"></span></label>
+                                            <input value="@DateTime.Now.ToShortDateString()" placeholder="" type="text">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="checkout-form-list">
+                                            <label>Ngày giao hàng dự kiến <span class="required"></span></label>
+                                            <input value="@DateTime.Now.AddDays(3).ToShortDateString() - @DateTime.Now.AddDays(8).ToShortDateString()" placeholder="" type="text">
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="different-address">
+                                    <div class="ship-different-title">
+                                        <h3>
+                                            <label>Giao hàng đến địa chỉ khác?</label>
+                                            <input id="ship-box" type="checkbox">
+                                        </h3>
+                                    </div>
+                                    <div id="ship-box-info" class="row">
+                                        <div class="col-md-12">
+                                            <div class="checkout-form-list">
+                                                <label>Họ và tên <span class="required">*</span></label>
+                                                <input placeholder="" type="text">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <div class="checkout-form-list">
+                                                <label>Email <span class="required">*</span></label>
+                                                <input placeholder="" type="email">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <div class="checkout-form-list">
+                                                <label>Số điện thoại <span class="required">*</span></label>
+                                                <input type="text">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <div class="checkout-form-list">
+                                                <label>Địa chỉ <span class="required">*</span></label>
+                                                <input type="text">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <div class="country-select clearfix">
+                                                <label>Tỉnh/thành <span class="required">*</span></label>
+                                                <select class="myniceselect nice-select wide">
+                                                    <option data-display="Chọn tỉnh/thành"></option>
+                                                    <option value="uk">Hồ Chí Minh</option>
+                                                    <option value="rou">Hà Nội</option>
+                                                    <option value="fr">Hải Phòng</option>
+                                                    <option value="de">Đà Nẵng</option>
+                                                    <option value="aus">Cần Thơ</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <div class="country-select clearfix">
+                                                <label>Quận/huyện <span class="required">*</span></label>
+                                                <select class="myniceselect nice-select wide">
+                                                    <option data-display="Chọn quận/huyện"></option>
+                                                    <option value="uk">Quận 1</option>
+                                                    <option value="rou">Quận 2</option>
+                                                    <option value="fr">Quận 3</option>
+                                                    <option value="de">Quận 4</option>
+                                                    <option value="aus">Quận 5</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="order-notes">
+                                        <div class="checkout-form-list checkout-form-list-2">
+                                            <label>Ghi chú</label>
+                                            <textarea id="checkout-mess" cols="30" rows="10" placeholder="Ghi chú về đơn hàng của bạn."></textarea>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-12">
+                            <div class="your-order">
+                                <h3>Đơn hàng của bạn</h3>
+                                <input asp-for="@Model.cartUserId" hidden />
+                                @{
+                                    double totalOrderPrice = 0.0;
+                                }
+                                <div class="your-order-table table-responsive">
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th class="cart-product-name">Sản phẩm</th>
+                                                <th class="cart-product-total">Thành tiền</th>
+                                            </tr>
+                                        </thead>
+                                        @foreach (var item in Model.CartList)
+                                        {
+                                            <tbody>
+
+                                                <tr class="cart_item">
+                                                    <td class="cart-product-name">
+                                                        <strong class="product-quantity">@item.Quantity ×</strong>
+                                                        @item.product.Name
+                                                        @{
+                                                            double setDecimal = item.Quantity * item.product.Price;
+                                                            totalOrderPrice += @Math.Round(setDecimal);
+                                                        }
+                                                    </td>
+                                                    <td class="cart-product-total"><span class="amount">@setDecimal₫</span></td>
+                                                </tr>
+                                            </tbody>
+                                            <tfoot>
+                                                <tr class="cart-subtotal">
+                                                    <th>Tạm tính</th>
+                                                    <td><span class="amount"><strong>@* <input value="" readonly /> *@@totalOrderPrice₫</strong></span></td>
+                                                </tr>
+                                                <tr class="shipping">
+                                                    @{
+                                                        double DeliveryFee = 25000;
+                                                    }
+                                                    <th>Phí vận chuyển</th>
+                                                    <td><span class="amount"><strong>@* <input value="@DeliveryFee₫" readonly /> *@@DeliveryFee₫</strong></span></td>
+                                                </tr>
+                                                <tr class="discount">
+                                                    <th>Mã khuyến mãi</th>
+                                                    <td><span class="amount">0₫</span></td>
+                                                </tr>
+                                                <tr class="order-total">
+                                                    @{
+                                                        double Totalbills = Math.Round(totalOrderPrice + DeliveryFee);
+                                                        Model.orderSummary.TotalOrderAmount = Totalbills;
+                                                    }
+                                                    <th>Tổng cộng</th>
+                                                    <td><strong><span class="amount"><input id="totalBills" asp-for="@Model.orderSummary.TotalOrderAmount" readonly />₫</span></strong></td>
+                                                </tr>
+                                            </tfoot>
+                                        }
+                                        
+                                    </table>
+                                </div>
+                                <div class="payment-method">
+                                    <div class="payment-options">
+                                        <h5>Chọn phương thức thanh toán:</h5>
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="radio" name="paymentMethod" id="paymentCash" value="cash" checked>
+                                            <label class="form-check-label" for="paymentCash">
+                                                Thanh toán tiền mặt khi nhận hàng
+                                            </label>
+                                        </div>
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="radio" name="paymentMethod" id="paymentMoMo" value="momo">
+                                            <label class="form-check-label" for="paymentMoMo">
+                                                Thanh toán bằng VISA
+                                            </label>
+                                        </div>
+                                    </div>
+
+                                    <div class="order-button-payment">
+                                        <input value="Đặt hàng" type="submit">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </main>
+    <!-- Main Content Area End Here -->
+}
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

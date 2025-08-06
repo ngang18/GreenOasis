@@ -1,0 +1,45 @@
+﻿@{
+	Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Gửi Thành Công</title>
+    <style>
+        body {
+          font-family: Arial, sans-serif;
+          padding: 40px;
+          text-align: center;
+          background-color: #f3fff3;
+          color: #2b7a2b;
+        }
+        h1 {
+          font-size: 32px;
+        }
+        p {
+          font-size: 18px;
+        }
+        .home-button {
+          margin-top: 30px;
+          display: inline-block;
+          padding: 12px 24px;
+          font-size: 16px;
+          color: #fff;
+          background-color: #2b7a2b;
+          text-decoration: none;
+          border-radius: 6px;
+          transition: background-color 0.3s ease;
+        }
+        .home-button:hover {
+          background-color: #256923;
+        }
+    </style>
+</head>
+<body>
+    <h1>🎉 Cảm ơn bạn đã gửi thông tin!</h1>
+    <p>Chúng tôi sẽ phản hồi bạn trong vòng 24 giờ.</p>
+    <a asp-action="Index" asp-controller="Home" class="home-button">Quay về trang chủ</a>
+</body>
+</html>

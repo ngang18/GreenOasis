@@ -1,0 +1,85 @@
+﻿ <!-- Begin Main Content Area -->
+<main class="main-content">
+    <div class="breadcrumb-area breadcrumb-height" data-bg-image="@Url.Content("~/greenoasisassets/images/breadcrumb/bg/1-1-1919x388.jpg")">
+        <div class="container h-100">
+            <div class="row h-100">
+                <div class="col-lg-12">
+                    <div class="breadcrumb-item">
+                        <h2 class="breadcrumb-heading">Liên Hệ</h2>
+                        <ul>
+                            <li>
+                                <a href="index.html">Trang Chủ</a>
+                            </li>
+                            <li>Liên Hệ</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="contact-form-area section-space-y-axis-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="contact-wrap">
+                        <div class="contact-info text-white" data-bg-image="@Url.Content("~/greenoasisassets/images/contact/1-1-370x500.jpg")">
+                            <h2 class="contact-title">Thông Tin Liên Hệ:</h2>
+                            <p class="contact-desc">Hãy điền vào mẫu đơn và đội ngũ của chúng tôi sẽ liên hệ lại với bạn trong vòng 24 giờ.</p>
+                            <ul class="contact-list">
+                                <li>
+                                    <i class="pe-7s-call"></i>
+                                    <a href="tel://123-456-789">(+84) 2888 271 076</a>
+                                </li>
+                                <li>
+                                    <i class="pe-7s-mail"></i>
+                                    <a href="mailto://info@example.com">info@greenoasis.com</a>
+                                </li>
+                                <li>
+                                    <i class="pe-7s-map-marker"></i>
+                                    <span>279 Nguyễn Tri Phương</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <form id="contact-form" class="contact-form" action="https://formspree.io/f/xrbqjpeq" method="post" onsubmit="handleFormSubmit(event)">
+                            <div class="group-input">
+                                <div class="form-field me-lg-30 mb-35 mb-lg-0">
+                                    <input type="text" name="con_firstName" placeholder="Họ*" class="input-field" required>
+                                </div>
+                                <div class="form-field mb-35">
+                                    <input type="text" name="con_lastName" placeholder="Tên*" class="input-field" required>
+                                </div>
+                            </div>
+                            <div class="group-input mb-35">
+                                <div class="form-field me-lg-30 mb-35 mb-lg-0">
+                                    <input type="tel" name="con_phone" placeholder="Số điện thoại*" class="input-field"
+                                           required pattern="0[0-9]{8,10}"
+                                           title="Số điện thoại phải bắt đầu bằng 0 và dài 9-11 chữ số">
+                                </div>
+                                <div class="form-field">
+                                    <input type="email" name="con_email" placeholder="Email*" class="input-field" required>
+                                </div>
+                            </div>
+                            <div class="form-field mb-5">
+                                <textarea name="con_message" placeholder="Lời nhắn" class="textarea-field" required></textarea>
+                            </div>
+                            <div class="contact-button-wrap">
+                                <form asp-action="ThankYou" asp-controller="Home">
+                                    <button type="submit" class="btn btn btn-custom-size xl-size btn-pronia-primary">
+                                        Gửi Thông Tin
+                                    </button>
+                                </form>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="contact-with-map">
+        <div class="contact-map">
+            <iframe class="contact-map-size" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.6602635745226!2d106.66505067495733!3d10.760644989387174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752ee4fdd56b85%3A0x23feeb2d2e8e7317!2zMjc5IMSQLiBOZ3V54buFbiBUcmkgUGjGsMahbmcsIFBoxrDhu51uZyA4LCBRdeG6rW4gMTAsIEjhu5MgQ2jDrSBNaW5oIDcyNTU5LCBWaWV0bmFt!5e0!3m2!1sen!2s!4v1747128866137!5m2!1sen!2s" allowfullscreen="" loading="lazy">
+            </iframe>
+        </div>
+    </div>
+</main>
+<!-- Main Content Area End Here -->

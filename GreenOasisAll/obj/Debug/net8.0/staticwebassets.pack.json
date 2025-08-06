@@ -1,0 +1,2845 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GreenOasisAll.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GreenOasisAll.xg4ae7j7lx.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\01f743ae-3ff0-4e97-bb06-5558f21f95d2_e7-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\01f743ae-3ff0-4e97-bb06-5558f21f95d2_e7-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\0a9876b6-25f9-4885-a598-9540fd9bbe59_1-9-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\0a9876b6-25f9-4885-a598-9540fd9bbe59_1-9-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\0b995935-3add-45a1-9421-e7d7cf53e676_f2-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\0b995935-3add-45a1-9421-e7d7cf53e676_f2-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\0e577969-f0c1-45c9-9693-83691846cf88_e3-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\0e577969-f0c1-45c9-9693-83691846cf88_e3-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\108f79b2-de73-401b-ba87-4e7eff5b391b_d3-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\108f79b2-de73-401b-ba87-4e7eff5b391b_d3-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\1266fee8-cde3-4ffa-a964-4047ac52bc75_1-5-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\1266fee8-cde3-4ffa-a964-4047ac52bc75_1-5-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\16210af4-74dd-4d8c-884c-965e974de810_f1-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\16210af4-74dd-4d8c-884c-965e974de810_f1-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\183e918c-f0af-4e0c-88ad-80aec07df3c3_f1-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\183e918c-f0af-4e0c-88ad-80aec07df3c3_f1-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\1c201374-77e8-44b1-b2c1-0e9dea8df764_d1-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\1c201374-77e8-44b1-b2c1-0e9dea8df764_d1-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\2b5f3c6a-fcf8-4bd1-9b4a-a32256d3209c_e1-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\2b5f3c6a-fcf8-4bd1-9b4a-a32256d3209c_e1-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\2f518e28-2fe8-4d06-9638-1c448ed6a895_1-16-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\2f518e28-2fe8-4d06-9638-1c448ed6a895_1-16-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\30882764-d724-46c0-9ac0-51f662d1c041_1-15-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\30882764-d724-46c0-9ac0-51f662d1c041_1-15-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\316cd3f9-09f1-421c-8552-2982c85f730a_1-16-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\316cd3f9-09f1-421c-8552-2982c85f730a_1-16-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\35b36b4a-0f01-4d7b-bd7e-970a276f1b56_1-10-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\35b36b4a-0f01-4d7b-bd7e-970a276f1b56_1-10-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\37150189-590f-42ff-8bac-d082a559e35f_d6-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\37150189-590f-42ff-8bac-d082a559e35f_d6-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\3ad5a54a-01b7-4a4c-8777-d82c8d28c6f9_f5-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\3ad5a54a-01b7-4a4c-8777-d82c8d28c6f9_f5-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\3bd81cf8-42c3-409c-8ffa-72c91b7dfb42_1-25-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\3bd81cf8-42c3-409c-8ffa-72c91b7dfb42_1-25-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\448dafa0-70b8-4462-bf7b-02f8f6f55319_e4-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\448dafa0-70b8-4462-bf7b-02f8f6f55319_e4-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\49076d92-329b-4742-b35d-2528f46271ae_1-25-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\49076d92-329b-4742-b35d-2528f46271ae_1-25-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\4c02be30-54b3-410f-87d3-f2730a5f54b6_f7-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\4c02be30-54b3-410f-87d3-f2730a5f54b6_f7-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\4d38b4b2-cb9f-432a-bb99-8d87eabd7697_d5-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\4d38b4b2-cb9f-432a-bb99-8d87eabd7697_d5-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\4fc3cb4c-3072-44fc-b2b6-b4042a35c88d_1-8-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\4fc3cb4c-3072-44fc-b2b6-b4042a35c88d_1-8-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\4fdd45b5-eac2-4326-aef1-d91c2c335d31_1-1-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\4fdd45b5-eac2-4326-aef1-d91c2c335d31_1-1-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\517f8ae3-ec70-4d01-89a5-bb83891aa32d_d1-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\517f8ae3-ec70-4d01-89a5-bb83891aa32d_d1-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\5644ebd1-d81a-4e77-8164-cc6b963e9708_f6-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\5644ebd1-d81a-4e77-8164-cc6b963e9708_f6-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\57319c55-3a9e-44c3-81f6-48f51840aa29_1-14-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\57319c55-3a9e-44c3-81f6-48f51840aa29_1-14-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\58920567-16f9-4934-bc35-0b8c41819d7d_1-14-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\58920567-16f9-4934-bc35-0b8c41819d7d_1-14-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\590415aa-b159-4d29-bc3b-9d20e8374fa8_f3-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\590415aa-b159-4d29-bc3b-9d20e8374fa8_f3-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\5aa3f727-12ba-4dbc-8d86-3430665bb80c_1-8-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\5aa3f727-12ba-4dbc-8d86-3430665bb80c_1-8-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\5bccf4d8-113d-4ce3-a100-5bd76e42d929_e4-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\5bccf4d8-113d-4ce3-a100-5bd76e42d929_e4-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\603646f2-77e3-4dff-9802-b6a692fe2be6_1-11-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\603646f2-77e3-4dff-9802-b6a692fe2be6_1-11-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\6192cc55-0b33-476b-80fe-615c7aa94949_e5-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\6192cc55-0b33-476b-80fe-615c7aa94949_e5-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\64ab0e2c-11fa-4091-bf10-f8c067f5b28d_e5-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\64ab0e2c-11fa-4091-bf10-f8c067f5b28d_e5-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\659eece9-6519-4479-90bb-97c7299b2e80_1-15-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\659eece9-6519-4479-90bb-97c7299b2e80_1-15-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\69105f67-cc21-4cf1-8fdf-abee987d9ad8_e2-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\69105f67-cc21-4cf1-8fdf-abee987d9ad8_e2-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\6a3cea76-2e53-4567-9182-a33644c9f05e_1-11-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\6a3cea76-2e53-4567-9182-a33644c9f05e_1-11-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\6d247716-1099-43d7-8398-6d9b424c4764_1-3-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\6d247716-1099-43d7-8398-6d9b424c4764_1-3-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\6e5b25f5-8cca-4998-8145-66c2b60afd7c_e6-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\6e5b25f5-8cca-4998-8145-66c2b60afd7c_e6-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\726d212e-5ef3-494f-860d-433737040841_d5-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\726d212e-5ef3-494f-860d-433737040841_d5-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\74d42827-4f9f-4b6a-94fc-60151b6e50d8_e8-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\74d42827-4f9f-4b6a-94fc-60151b6e50d8_e8-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\76ae867e-3e9f-4954-8d77-106480c3e3cb_1-2-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\76ae867e-3e9f-4954-8d77-106480c3e3cb_1-2-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\78fa4c33-240d-4716-bc47-073eaad8c30b_1-9-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\78fa4c33-240d-4716-bc47-073eaad8c30b_1-9-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\7ad80d91-eec7-43d7-b756-aeba4dbe7412_f2-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\7ad80d91-eec7-43d7-b756-aeba4dbe7412_f2-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\7adf1ea9-6818-4fe6-8d90-24e02c7fd965_1-3-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\7adf1ea9-6818-4fe6-8d90-24e02c7fd965_1-3-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\7b03e89c-f97c-47ed-9802-ed0c2b54d113_1-13-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\7b03e89c-f97c-47ed-9802-ed0c2b54d113_1-13-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\7dbde6b8-1929-4a87-afca-2725e54cd899_1-4-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\7dbde6b8-1929-4a87-afca-2725e54cd899_1-4-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\7fd9d278-b193-4dc0-9eab-2362f7face3d_1-10-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\7fd9d278-b193-4dc0-9eab-2362f7face3d_1-10-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\81536f5e-8472-4ec0-bb5f-7b97d0849be3_1-12-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\81536f5e-8472-4ec0-bb5f-7b97d0849be3_1-12-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\863991d1-c751-4d45-a62f-6e7eff85d407_f4-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\863991d1-c751-4d45-a62f-6e7eff85d407_f4-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\88956a80-1548-4768-b49d-1b50c833994e_1-6-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\88956a80-1548-4768-b49d-1b50c833994e_1-6-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\890c7480-6c08-45b7-a537-4a94fa9e51fe_e1-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\890c7480-6c08-45b7-a537-4a94fa9e51fe_e1-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\8a5d0d52-837f-4f9d-862c-9181a3f19f29_d4-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\8a5d0d52-837f-4f9d-862c-9181a3f19f29_d4-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\8e008c6d-4ce0-48a2-92a1-00765e6c809a_f8-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\8e008c6d-4ce0-48a2-92a1-00765e6c809a_f8-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\93585d1e-7dc0-4384-a2c3-de34182f9cee_1-6-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\93585d1e-7dc0-4384-a2c3-de34182f9cee_1-6-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\OrderSuccess.jpg",
+      "PackagePath": "staticwebassets\\Images\\OrderSuccess.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\a83c6505-8358-410e-a1c7-d53662c275f6_f8-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\a83c6505-8358-410e-a1c7-d53662c275f6_f8-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\ab7675f5-e1d4-4e28-87e9-3be6d34eee6b_1-1-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\ab7675f5-e1d4-4e28-87e9-3be6d34eee6b_1-1-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\ab8a95a1-5442-497a-8abc-07620bd16032_1-13-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\ab8a95a1-5442-497a-8abc-07620bd16032_1-13-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\ac71c41d-2d5b-4176-916d-dfb68dd99285_e8-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\ac71c41d-2d5b-4176-916d-dfb68dd99285_e8-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\af9d7ea8-6d43-42e8-93e9-38f6e23a79c8_d3-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\af9d7ea8-6d43-42e8-93e9-38f6e23a79c8_d3-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\afc70ea6-64fc-4be7-8eff-a120e4aa151f_1-7-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\afc70ea6-64fc-4be7-8eff-a120e4aa151f_1-7-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\b08b7b2d-ec92-499c-a27c-4397cb0f867b_f6-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\b08b7b2d-ec92-499c-a27c-4397cb0f867b_f6-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\be23a7e9-da3c-4466-ae8d-f8bc6371937e_f7-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\be23a7e9-da3c-4466-ae8d-f8bc6371937e_f7-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\c54693a3-32c1-441d-ac0d-620715d8f1a7_e7-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\c54693a3-32c1-441d-ac0d-620715d8f1a7_e7-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\ca27b72f-2409-4c38-be8c-50d591bbad2e_1-2-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\ca27b72f-2409-4c38-be8c-50d591bbad2e_1-2-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\d859d303-a516-4e36-a105-3628321b2f7b_1-5-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\d859d303-a516-4e36-a105-3628321b2f7b_1-5-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\e07a9d00-06a5-4f2e-91a2-3a286ba3244f_f3-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\e07a9d00-06a5-4f2e-91a2-3a286ba3244f_f3-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\e10673b6-a4e6-45b3-8405-ddebf30b33fc_e2-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\e10673b6-a4e6-45b3-8405-ddebf30b33fc_e2-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\e81dbd4c-9cfa-4e6d-8109-6276fb23afd0_1-12-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\e81dbd4c-9cfa-4e6d-8109-6276fb23afd0_1-12-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\e882b2f0-dd01-4511-b387-174bf30d6c1a_d4-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\e882b2f0-dd01-4511-b387-174bf30d6c1a_d4-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\ea7c7fa4-5dba-4bc6-a98f-47a5612351a1_1-7-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\ea7c7fa4-5dba-4bc6-a98f-47a5612351a1_1-7-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\eed4033e-0e64-432b-bb44-09c0e0f360d8_e3-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\eed4033e-0e64-432b-bb44-09c0e0f360d8_e3-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\f12a7179-cb70-48db-85d1-6267101752af_f5-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\f12a7179-cb70-48db-85d1-6267101752af_f5-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\f3ad4a0a-e9e5-4a02-ac74-9ba0e29d21d4_e6-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\f3ad4a0a-e9e5-4a02-ac74-9ba0e29d21d4_e6-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\f53ead12-fedd-472c-9678-142e08547722_d2-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\f53ead12-fedd-472c-9678-142e08547722_d2-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\f6a47d19-f0d8-4c6f-adcd-34288e55b378_1-4-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\Images\\f6a47d19-f0d8-4c6f-adcd-34288e55b378_1-4-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\f83411fc-9556-4cad-8e2c-da3035a24081_d2-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\f83411fc-9556-4cad-8e2c-da3035a24081_d2-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\Images\\fd50f8d8-6319-400d-9113-6e7b0c5de22f_f4-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\Images\\fd50f8d8-6319-400d-9113-6e7b0c5de22f_f4-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\._.DS_Store",
+      "PackagePath": "staticwebassets\\greenoasisassets\\._.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\._css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\._css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\._fonts",
+      "PackagePath": "staticwebassets\\greenoasisassets\\._fonts"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\._images",
+      "PackagePath": "staticwebassets\\greenoasisassets\\._images"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\._js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\._js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\._php",
+      "PackagePath": "staticwebassets\\greenoasisassets\\._php"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\._scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\._scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\css\\._Pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\css\\._Pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\css\\._animate.min.css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\css\\._animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\css\\._bootstrap.min.css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\css\\._bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\css\\._font-awesome.min.css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\css\\._font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\css\\._ion.rangeSlider.min.css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\css\\._ion.rangeSlider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\css\\._magnific-popup.min.css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\css\\._magnific-popup.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\css\\._nice-select.css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\css\\._nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\css\\._plugins.min.css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\css\\._plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\css\\._style.css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\css\\._style.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\css\\._style.min.css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\css\\._style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\css\\._swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\css\\._swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\css\\Pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\css\\Pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\css\\ion.rangeSlider.min.css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\css\\ion.rangeSlider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\css\\magnific-popup.min.css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\css\\magnific-popup.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\css\\plugins.min.css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\css\\plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\css\\style.css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\greenoasisassets\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\fonts\\._FontAwesome.otf",
+      "PackagePath": "staticwebassets\\greenoasisassets\\fonts\\._FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\fonts\\._Pe-icon-7-stroke.eot",
+      "PackagePath": "staticwebassets\\greenoasisassets\\fonts\\._Pe-icon-7-stroke.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\fonts\\._Pe-icon-7-stroke.svg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\fonts\\._Pe-icon-7-stroke.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\fonts\\._Pe-icon-7-stroke.ttf",
+      "PackagePath": "staticwebassets\\greenoasisassets\\fonts\\._Pe-icon-7-stroke.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\fonts\\._Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets\\greenoasisassets\\fonts\\._Pe-icon-7-stroke.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\fonts\\._fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\greenoasisassets\\fonts\\._fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\fonts\\._fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\fonts\\._fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\fonts\\._fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\greenoasisassets\\fonts\\._fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\fonts\\._fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\greenoasisassets\\fonts\\._fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\fonts\\._fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\greenoasisassets\\fonts\\._fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\greenoasisassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\fonts\\Pe-icon-7-stroke.eot",
+      "PackagePath": "staticwebassets\\greenoasisassets\\fonts\\Pe-icon-7-stroke.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\fonts\\Pe-icon-7-stroke.svg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\fonts\\Pe-icon-7-stroke.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\fonts\\Pe-icon-7-stroke.ttf",
+      "PackagePath": "staticwebassets\\greenoasisassets\\fonts\\Pe-icon-7-stroke.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\fonts\\Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets\\greenoasisassets\\fonts\\Pe-icon-7-stroke.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\greenoasisassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\greenoasisassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\greenoasisassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\greenoasisassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\._.DS_Store",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\._.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\._about",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\._about"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\._banner",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\._banner"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\._blog",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\._blog"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\._brand",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\._brand"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\._breadcrumb",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\._breadcrumb"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\._contact",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\._contact"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\._error-404",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\._error-404"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\._favicon.ico",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\._favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\._footer",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\._footer"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\._logo",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\._logo"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\._newsletter",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\._newsletter"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\._offcanvas",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\._offcanvas"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\._payment",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\._payment"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\._product",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\._product"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\._shape",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\._shape"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\._shipping",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\._shipping"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\._sidebar",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\._sidebar"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\._slider",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\._slider"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\._testimonial",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\._testimonial"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\about\\._icon",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\about\\._icon"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\about\\._team",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\about\\._team"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\about\\icon\\._1.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\about\\icon\\._1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\about\\icon\\._2.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\about\\icon\\._2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\about\\icon\\1.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\about\\icon\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\about\\icon\\2.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\about\\icon\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\about\\team\\._1-1-270x270.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\about\\team\\._1-1-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\about\\team\\._1-2-270x270.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\about\\team\\._1-2-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\about\\team\\._1-3-270x270.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\about\\team\\._1-3-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\about\\team\\._1-4-270x270.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\about\\team\\._1-4-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\about\\team\\1-1-270x270.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\about\\team\\1-1-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\about\\team\\1-2-270x270.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\about\\team\\1-2-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\about\\team\\1-3-270x270.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\about\\team\\1-3-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\about\\team\\1-4-270x270.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\about\\team\\1-4-270x270.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\._.DS_Store",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\._.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\._1-1-770x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\._1-1-770x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\._1-2-370x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\._1-2-370x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\._1-3-370x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\._1-3-370x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\._1-4-770x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\._1-4-770x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\._2-1-570x500.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\._2-1-570x500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\._2-2-570x235.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\._2-2-570x235.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\._2-3-570x235.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\._2-3-570x235.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\._3-1-1208x542.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\._3-1-1208x542.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\._4-1-1170x400.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\._4-1-1170x400.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\._banner1.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\._banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\._banner1.psd",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\._banner1.psd"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\._banner2.psd",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\._banner2.psd"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\1-1-770x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\1-1-770x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\1-2-370x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\1-2-370x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\1-3-370x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\1-3-370x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\1-4-770x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\1-4-770x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\2-1-570x500.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\2-1-570x500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\2-2-570x235.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\2-2-570x235.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\2-3-570x235.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\2-3-570x235.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\3-1-1208x542.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\3-1-1208x542.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\4-1-1170x400.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\4-1-1170x400.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\banner1.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\banner1.psd",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\banner1.psd"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\banner\\banner2.psd",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\banner\\banner2.psd"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\._.DS_Store",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\._.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\._avatar",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\._avatar"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\._blockquote",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\._blockquote"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\._large-size",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\._large-size"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\._medium-size",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\._medium-size"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\._small-size",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\._small-size"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\avatar\\._1-1-120x120.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\avatar\\._1-1-120x120.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\avatar\\._1-2-120x120.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\avatar\\._1-2-120x120.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\avatar\\._1-3-120x120.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\avatar\\._1-3-120x120.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\avatar\\1-1-120x120.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\avatar\\1-1-120x120.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\avatar\\1-2-120x120.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\avatar\\1-2-120x120.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\avatar\\1-3-120x120.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\avatar\\1-3-120x120.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\blockquote\\._quotation.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\blockquote\\._quotation.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\blockquote\\quotation.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\blockquote\\quotation.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\large-size\\._1-1-768x546.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\large-size\\._1-1-768x546.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\large-size\\1-1-768x546.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\large-size\\1-1-768x546.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\medium-size\\._1-1-310x220.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\medium-size\\._1-1-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\medium-size\\._1-2-310x220.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\medium-size\\._1-2-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\medium-size\\._1-3-310x220.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\medium-size\\._1-3-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\medium-size\\._1-4-310x220.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\medium-size\\._1-4-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\medium-size\\._1-5-310x220.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\medium-size\\._1-5-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\medium-size\\._1-6-310x220.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\medium-size\\._1-6-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\medium-size\\._2-1-370x270.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\medium-size\\._2-1-370x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\medium-size\\._2-2-370x270.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\medium-size\\._2-2-370x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\medium-size\\._medium-size1.psd",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\medium-size\\._medium-size1.psd"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\medium-size\\1-1-310x220.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\medium-size\\1-1-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\medium-size\\1-2-310x220.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\medium-size\\1-2-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\medium-size\\1-3-310x220.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\medium-size\\1-3-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\medium-size\\1-4-310x220.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\medium-size\\1-4-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\medium-size\\1-5-310x220.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\medium-size\\1-5-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\medium-size\\1-6-310x220.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\medium-size\\1-6-310x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\medium-size\\2-1-370x270.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\medium-size\\2-1-370x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\medium-size\\2-2-370x270.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\medium-size\\2-2-370x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\medium-size\\medium-size1.psd",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\medium-size\\medium-size1.psd"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\small-size\\._1-1-70x70.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\small-size\\._1-1-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\small-size\\._1-2-70x70.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\small-size\\._1-2-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\small-size\\._1-3-70x70.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\small-size\\._1-3-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\small-size\\._1-4-70x70.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\small-size\\._1-4-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\small-size\\1-1-70x70.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\small-size\\1-1-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\small-size\\1-2-70x70.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\small-size\\1-2-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\small-size\\1-3-70x70.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\small-size\\1-3-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\blog\\small-size\\1-4-70x70.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\blog\\small-size\\1-4-70x70.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\brand\\._.DS_Store",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\brand\\._.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\brand\\._1-1.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\brand\\._1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\brand\\._1-2.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\brand\\._1-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\brand\\._1-3.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\brand\\._1-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\brand\\._1-4.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\brand\\._1-4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\brand\\._1-5.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\brand\\._1-5.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\brand\\._bg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\brand\\._bg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\brand\\1-1.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\brand\\1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\brand\\1-2.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\brand\\1-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\brand\\1-3.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\brand\\1-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\brand\\1-4.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\brand\\1-4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\brand\\1-5.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\brand\\1-5.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\brand\\bg\\._.DS_Store",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\brand\\bg\\._.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\brand\\bg\\._1-1170x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\brand\\bg\\._1-1170x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\brand\\bg\\1-1170x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\brand\\bg\\1-1170x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\breadcrumb\\._bg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\breadcrumb\\._bg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\breadcrumb\\bg\\._1-1-1919x388.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\breadcrumb\\bg\\._1-1-1919x388.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\breadcrumb\\bg\\1-1-1919x388.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\breadcrumb\\bg\\1-1-1919x388.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\contact\\._1-1-370x500.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\contact\\._1-1-370x500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\contact\\1-1-370x500.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\contact\\1-1-370x500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\error-404\\._404.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\error-404\\._404.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\error-404\\._bg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\error-404\\._bg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\error-404\\404.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\error-404\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\error-404\\bg\\._1-1920x886.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\error-404\\bg\\._1-1920x886.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\error-404\\bg\\1-1920x886.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\error-404\\bg\\1-1920x886.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\footer\\._bg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\footer\\._bg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\footer\\bg\\._1-1920x465.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\footer\\bg\\._1-1920x465.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\footer\\bg\\1-1920x465.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\footer\\bg\\1-1920x465.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\logo\\._.DS_Store",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\logo\\._.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\logo\\._dark.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\logo\\._dark.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\logo\\dark.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\logo\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\newsletter\\._1-1920x400.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\newsletter\\._1-1920x400.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\newsletter\\1-1920x400.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\newsletter\\1-1920x400.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\offcanvas\\._close-white.svg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\offcanvas\\._close-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\offcanvas\\close-white.svg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\offcanvas\\close-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\payment\\._1.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\payment\\._1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\payment\\1.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\payment\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\._.DS_Store",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\._.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\._large-size",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\._large-size"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\._medium-size",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\._medium-size"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\._small-size",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\._small-size"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\large-size\\._1-1-570x633.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\large-size\\._1-1-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\large-size\\._1-2-570x633.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\large-size\\._1-2-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\large-size\\._1-3-570x633.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\large-size\\._1-3-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\large-size\\._1-4-570x633.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\large-size\\._1-4-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\large-size\\1-1-570x633.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\large-size\\1-1-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\large-size\\1-2-570x633.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\large-size\\1-2-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\large-size\\1-3-570x633.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\large-size\\1-3-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\large-size\\1-4-570x633.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\large-size\\1-4-570x633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._.DS_Store",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-1-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-1-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-1-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-1-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-10-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-10-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-10-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-10-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-11-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-11-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-11-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-11-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-12-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-12-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-12-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-12-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-13-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-13-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-13-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-13-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-14-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-14-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-14-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-14-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-15-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-15-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-15-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-15-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-16-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-16-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-16-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-16-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-17-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-17-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-17-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-17-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-18-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-18-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-18-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-18-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-19-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-19-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-19-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-19-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-2-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-2-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-2-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-2-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-20-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-20-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-20-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-20-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-21-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-21-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-21-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-21-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-22-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-22-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-22-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-22-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-23-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-23-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-23-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-23-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-24-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-24-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-24-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-24-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-25-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-25-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-25-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-25-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-3-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-3-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-3-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-3-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-4-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-4-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-4-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-4-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-5-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-5-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-5-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-5-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-6-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-6-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-6-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-6-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-7-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-7-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-7-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-7-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-8-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-8-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-8-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-8-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-9-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-9-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._1-9-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._1-9-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._d1-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._d1-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._d1-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._d1-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._d2-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._d2-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._d2-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._d2-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._d3-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._d3-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._d3-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._d3-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._d4-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._d4-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._d4-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._d4-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._d5-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._d5-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._d5-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._d5-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._d6-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._d6-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._e1-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._e1-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._e1-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._e1-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._e2-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._e2-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._e2-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._e2-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._e3-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._e3-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._e3-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._e3-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._e4-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._e4-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._e4-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._e4-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._e5-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._e5-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._e5-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._e5-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._e6-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._e6-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._e6-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._e6-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._e7-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._e7-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._e7-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._e7-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._e8-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._e8-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._e8-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._e8-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._f1-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._f1-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._f1-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._f1-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._f2-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._f2-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._f2-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._f2-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._f3-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._f3-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._f3-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._f3-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._f4-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._f4-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._f4-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._f4-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._f5-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._f5-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._f5-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._f5-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._f6-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._f6-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._f6-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._f6-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._f7-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._f7-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._f7-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._f7-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._f8-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._f8-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\._f8-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\._f8-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-1-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-1-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-1-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-1-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-10-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-10-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-10-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-10-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-11-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-11-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-11-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-11-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-12-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-12-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-12-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-12-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-13-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-13-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-13-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-13-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-14-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-14-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-14-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-14-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-15-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-15-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-15-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-15-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-16-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-16-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-16-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-16-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-17-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-17-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-17-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-17-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-18-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-18-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-18-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-18-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-19-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-19-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-19-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-19-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-2-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-2-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-2-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-2-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-20-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-20-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-20-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-20-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-21-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-21-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-21-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-21-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-22-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-22-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-22-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-22-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-23-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-23-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-23-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-23-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-24-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-24-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-24-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-24-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-25-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-25-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-25-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-25-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-3-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-3-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-3-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-3-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-4-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-4-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-4-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-4-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-5-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-5-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-5-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-5-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-6-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-6-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-6-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-6-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-7-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-7-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-7-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-7-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-8-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-8-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-8-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-8-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-9-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-9-1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\1-9-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\1-9-2-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\d1-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\d1-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\d1-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\d1-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\d2-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\d2-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\d2-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\d2-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\d3-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\d3-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\d3-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\d3-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\d4-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\d4-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\d4-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\d4-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\d5-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\d5-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\d5-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\d5-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\d6-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\d6-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\e1-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\e1-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\e1-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\e1-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\e2-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\e2-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\e2-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\e2-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\e3-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\e3-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\e3-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\e3-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\e4-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\e4-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\e4-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\e4-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\e5-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\e5-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\e5-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\e5-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\e6-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\e6-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\e6-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\e6-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\e7-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\e7-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\e7-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\e7-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\e8-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\e8-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\e8-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\e8-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\f1-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\f1-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\f1-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\f1-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\f2-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\f2-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\f2-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\f2-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\f3-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\f3-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\f3-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\f3-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\f4-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\f4-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\f4-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\f4-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\f5-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\f5-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\f5-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\f5-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\f6-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\f6-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\f6-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\f6-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\f7-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\f7-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\f7-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\f7-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\f8-1-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\f8-1-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\medium-size\\f8-2-270-300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\medium-size\\f8-2-270-300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\small-size\\._1-1-112x124.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\small-size\\._1-1-112x124.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\small-size\\._1-2-112x124.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\small-size\\._1-2-112x124.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\small-size\\._1-3-112x124.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\small-size\\._1-3-112x124.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\small-size\\._2-1-70x78.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\small-size\\._2-1-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\small-size\\._2-2-70x78.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\small-size\\._2-2-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\small-size\\._2-3-70x78.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\small-size\\._2-3-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\small-size\\1-1-112x124.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\small-size\\1-1-112x124.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\small-size\\1-2-112x124.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\small-size\\1-2-112x124.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\small-size\\1-3-112x124.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\small-size\\1-3-112x124.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\small-size\\2-1-70x78.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\small-size\\2-1-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\small-size\\2-2-70x78.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\small-size\\2-2-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\product\\small-size\\2-3-70x78.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\product\\small-size\\2-3-70x78.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shape\\._1.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shape\\._1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shape\\._2.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shape\\._2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shape\\1.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shape\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shape\\2.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shape\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shipping\\._icon",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shipping\\._icon"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shipping\\icon\\._car.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shipping\\icon\\._car.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shipping\\icon\\._card.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shipping\\icon\\._card.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shipping\\icon\\._earphones.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shipping\\icon\\._earphones.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shipping\\icon\\._home.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shipping\\icon\\._home.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shipping\\icon\\._message.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shipping\\icon\\._message.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shipping\\icon\\._phone.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shipping\\icon\\._phone.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shipping\\icon\\._plane.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shipping\\icon\\._plane.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shipping\\icon\\._service.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shipping\\icon\\._service.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shipping\\icon\\._shield.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shipping\\icon\\._shield.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shipping\\icon\\car.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shipping\\icon\\car.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shipping\\icon\\card.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shipping\\icon\\card.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shipping\\icon\\earphones.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shipping\\icon\\earphones.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shipping\\icon\\home.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shipping\\icon\\home.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shipping\\icon\\message.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shipping\\icon\\message.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shipping\\icon\\phone.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shipping\\icon\\phone.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shipping\\icon\\plane.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shipping\\icon\\plane.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shipping\\icon\\service.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shipping\\icon\\service.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\shipping\\icon\\shield.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\shipping\\icon\\shield.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\sidebar\\._banner",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\sidebar\\._banner"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\sidebar\\banner\\._1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\sidebar\\banner\\._1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\sidebar\\banner\\1-270x300.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\sidebar\\banner\\1-270x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\slider\\._.DS_Store",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\slider\\._.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\slider\\._bg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\slider\\._bg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\slider\\._inner-img",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\slider\\._inner-img"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\slider\\._slide-img",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\slider\\._slide-img"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\slider\\bg\\._1-1.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\slider\\bg\\._1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\slider\\bg\\._2-1.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\slider\\bg\\._2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\slider\\bg\\1-1.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\slider\\bg\\1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\slider\\bg\\2-1.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\slider\\bg\\2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\slider\\inner-img\\._1-1-524x617.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\slider\\inner-img\\._1-1-524x617.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\slider\\inner-img\\._1-2-524x617.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\slider\\inner-img\\._1-2-524x617.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\slider\\inner-img\\._inner.psd",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\slider\\inner-img\\._inner.psd"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\slider\\inner-img\\1-1-524x617.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\slider\\inner-img\\1-1-524x617.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\slider\\inner-img\\1-2-524x617.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\slider\\inner-img\\1-2-524x617.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\slider\\inner-img\\inner.psd",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\slider\\inner-img\\inner.psd"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\slider\\slide-img\\._2-1-960x741.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\slider\\slide-img\\._2-1-960x741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\slider\\slide-img\\._2-2-960x741.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\slider\\slide-img\\._2-2-960x741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\slider\\slide-img\\._2-3-960x741.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\slider\\slide-img\\._2-3-960x741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\slider\\slide-img\\2-1-960x741.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\slider\\slide-img\\2-1-960x741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\slider\\slide-img\\2-2-960x741.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\slider\\slide-img\\2-2-960x741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\slider\\slide-img\\2-3-960x741.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\slider\\slide-img\\2-3-960x741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\testimonial\\._.DS_Store",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\testimonial\\._.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\testimonial\\._bg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\testimonial\\._bg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\testimonial\\._icon",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\testimonial\\._icon"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\testimonial\\._user",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\testimonial\\._user"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\testimonial\\bg\\._1-1-1820x443.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\testimonial\\bg\\._1-1-1820x443.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\testimonial\\bg\\1-1-1820x443.jpg",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\testimonial\\bg\\1-1-1820x443.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\testimonial\\icon\\._quotation.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\testimonial\\icon\\._quotation.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\testimonial\\icon\\quotation.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\testimonial\\icon\\quotation.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\testimonial\\user\\._.DS_Store",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\testimonial\\user\\._.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\testimonial\\user\\._1.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\testimonial\\user\\._1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\testimonial\\user\\._2.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\testimonial\\user\\._2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\testimonial\\user\\._3.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\testimonial\\user\\._3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\testimonial\\user\\1.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\testimonial\\user\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\testimonial\\user\\2.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\testimonial\\user\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\images\\testimonial\\user\\3.png",
+      "PackagePath": "staticwebassets\\greenoasisassets\\images\\testimonial\\user\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\._main.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\._main.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\._plugins",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\._plugins"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\._plugins.min.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\._plugins.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\._vendor",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\._vendor"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\main.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\plugins.min.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\plugins.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\plugins\\._ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\plugins\\._ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\plugins\\._jquery.counterup.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\plugins\\._jquery.counterup.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\plugins\\._jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\plugins\\._jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\plugins\\._jquery.nice-select.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\plugins\\._jquery.nice-select.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\plugins\\._mailchimp-ajax.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\plugins\\._mailchimp-ajax.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\plugins\\._parallax.min.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\plugins\\._parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\plugins\\._swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\plugins\\._swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\plugins\\._tippy.min.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\plugins\\._tippy.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\plugins\\._wow.min.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\plugins\\._wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\plugins\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\plugins\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\plugins\\jquery.counterup.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\plugins\\jquery.counterup.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\plugins\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\plugins\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\plugins\\jquery.nice-select.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\plugins\\jquery.nice-select.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\plugins\\mailchimp-ajax.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\plugins\\mailchimp-ajax.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\plugins\\parallax.min.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\plugins\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\plugins\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\plugins\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\plugins\\tippy.min.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\plugins\\tippy.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\plugins\\wow.min.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\plugins\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\vendor\\._bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\vendor\\._bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\vendor\\._jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\vendor\\._jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\vendor\\._jquery-migrate-3.3.2.min.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\vendor\\._jquery-migrate-3.3.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\vendor\\._jquery.waypoints.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\vendor\\._jquery.waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\vendor\\._modernizr-3.11.2.min.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\vendor\\._modernizr-3.11.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\vendor\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\vendor\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\vendor\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\vendor\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\vendor\\jquery-migrate-3.3.2.min.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\vendor\\jquery-migrate-3.3.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\vendor\\jquery.waypoints.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\vendor\\jquery.waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\js\\vendor\\modernizr-3.11.2.min.js",
+      "PackagePath": "staticwebassets\\greenoasisassets\\js\\vendor\\modernizr-3.11.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\php\\._.DS_Store",
+      "PackagePath": "staticwebassets\\greenoasisassets\\php\\._.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\php\\._pronia",
+      "PackagePath": "staticwebassets\\greenoasisassets\\php\\._pronia"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\php\\pronia\\._pronia.php",
+      "PackagePath": "staticwebassets\\greenoasisassets\\php\\pronia\\._pronia.php"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\php\\pronia\\pronia.php",
+      "PackagePath": "staticwebassets\\greenoasisassets\\php\\pronia\\pronia.php"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__404.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__404.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__about.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__about.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__animation.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__banner.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__blog.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__brand.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__breadcrumb.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__cart.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__cart.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__checkout.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__checkout.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__common.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__common.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__compare.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__compare.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__contact.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__faq.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__faq.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__footer.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__header.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__header.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__login-register.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__login-register.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__mixins.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__modal.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__my-account.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__my-account.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__navigation.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__navigation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__newsletter.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__newsletter.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__offcanvas.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__product.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__product.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__shipping.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__shipping.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__shop.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__shop.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__sidebar.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__slider.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__testimonial.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__testimonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__variables.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\.__wishlist.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\.__wishlist.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\._style.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\._style.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_404.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_404.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_about.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_animation.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_banner.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_blog.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_brand.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_cart.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_cart.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_checkout.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_checkout.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_compare.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_compare.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_faq.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_faq.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_header.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_login-register.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_login-register.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_my-account.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_my-account.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_navigation.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_navigation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_newsletter.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_newsletter.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_product.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_product.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_shipping.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_shipping.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_shop.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_shop.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_slider.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\_wishlist.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\_wishlist.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\greenoasisassets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\greenoasisassets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\js\\Inventories.js",
+      "PackagePath": "staticwebassets\\js\\Inventories.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\js\\OrderHistory.js",
+      "PackagePath": "staticwebassets\\js\\OrderHistory.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\js\\usercart.js",
+      "PackagePath": "staticwebassets\\js\\usercart.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\js\\validateShippingInput.js",
+      "PackagePath": "staticwebassets\\js\\validateShippingInput.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\GreenOasisAll\\GreenOasisAll\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GreenOasisAll.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GreenOasisAll.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GreenOasisAll.props",
+      "PackagePath": "build\\GreenOasisAll.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GreenOasisAll.props",
+      "PackagePath": "buildMultiTargeting\\GreenOasisAll.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GreenOasisAll.props",
+      "PackagePath": "buildTransitive\\GreenOasisAll.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

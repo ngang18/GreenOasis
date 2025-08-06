@@ -1,0 +1,41 @@
+﻿
+
+<div class="row m-3">
+	<div class="col-7">
+		<h2 class="text-primary">Inventory List</h2>
+		<hr />
+	</div>
+	<div class="col-5">
+		<a asp-action="Index" asp-controller="Product" class="btn btn-primary form-control">Product List</a>
+	</div>
+</div>
+
+@if (User.IsInRole("Admin") || User.IsInRole("Sales"))
+{
+	<input id="ifAdmin" value="0" hidden />
+}
+else
+{
+	<input id="ifAdmin" value="1" hidden />
+}
+
+
+<div class="row p-1">
+	<div class="table-responsive">
+		<table id ="myInventoryTable" class="table table-dark table-bordered table-striped" style="width:100%">
+			<thead class="thead-dark">
+				<tr class="table-success">
+					<th scope="col">Product Name</th>
+					<th scope ="col">Category</th>
+					<th scope="col">PPrice</th>
+					<th scope="col">PQty</th>
+				</tr>
+			</thead>
+		</table>
+	</div>
+</div>
+
+@section Scripts {
+	<script src="~/js/inventories.js"></script>
+}
+

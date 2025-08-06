@@ -1,0 +1,402 @@
+﻿@model ModelClasses.ViewModel.HomePageVM
+
+<!-- Begin Main Content Area -->
+<main class="main-content">
+    <div class="breadcrumb-area breadcrumb-height" data-bg-image="@Url.Content("~/greenoasisassets/images/breadcrumb/bg/1-1-1919x388.jpg")">
+        <div class="container h-100">
+            <div class="row h-100">
+                <div class="col-lg-12">
+                    <div class="breadcrumb-item">
+                        <h2 class="breadcrumb-heading">Blog</h2>
+                        <ul>
+                            <li>
+                                <a <a asp-area="" asp-controller="Home" asp-action="Index">Trang Chủ</a>
+                            </li>
+                            <li>Bài Viết</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="blog-area section-space-y-axis-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-3 col-lg-4 order-2 pt-5 pt-lg-0">
+                    <div class="sidebar-area">
+                        <div class="widgets-searchbox">
+                            <form id="widgets-searchbox">
+                                <input class="input-field" type="text" placeholder="Tìm kiếm">
+                                <button class="widgets-searchbox-btn" type="submit">
+                                    <i class="fa fa-search"></i>
+                                </button>
+                            </form>
+                        </div>
+                        <div class="widgets-area">
+                            <div class="widgets-item pt-0">
+                                <h2 class="widgets-title mb-4">Loại Sản Phẩm</h2>
+                                <ul class="widgets-category">
+                                    <li>
+                                        <a href="#">
+                                            <i class="fa fa-chevron-right"></i>
+                                            Tất cả <span>(65)</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fa fa-chevron-right"></i>
+                                            Sen Đá <span>(12)</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fa fa-chevron-right"></i>
+                                            Xương Rồng <span>(22)</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fa fa-chevron-right"></i>
+                                            Đất Trồng  <span>(19)</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fa fa-chevron-right"></i>
+                                            Phân Bón <span>(17)</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fa fa-chevron-right"></i>
+                                            Phụ Kiện Trang Trí <span>(01)</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fa fa-chevron-right"></i>
+                                            Dụng Cụ Trồng Sen Đá <span>(12)</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="widgets-item">
+                                <h2 class="widgets-title mb-4">Bài Viết Gần Đây</h2>
+                                <div class="swiper-container widgets-list-slider">
+                                    <div class="swiper-wrapper">
+                                        <div class="swiper-slide">
+                                            <div class="widgets-list-item">
+                                                <div class="widgets-list-img">
+                                                    <a href="#">
+                                                        <img class="img-full" src="~/greenoasisassets/images/blog/small-size/1-1-70x70.png" alt="Blog Images">
+                                                    </a>
+                                                </div>
+                                                <div class="widgets-list-content">
+                                                    <div class="widgets-meta">
+                                                        <ul>
+                                                            <li class="date">
+                                                                25 March 2025
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <h2 class="title mb-0">
+                                                        <a href="#">Cách xử lý khi sen đá bị vàng lá</a>
+                                                    </h2>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <div class="widgets-list-item">
+                                                <div class="widgets-list-img">
+                                                    <a href="#">
+                                                        <img class="img-full" src="~/greenoasisassets/images/blog/small-size/1-2-70x70.png" alt="Blog Images">
+                                                    </a>
+                                                </div>
+                                                <div class="widgets-list-content">
+                                                    <div class="widgets-meta">
+                                                        <ul>
+                                                            <li class="date">
+                                                                24 March 2025
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <h2 class="title mb-0">
+                                                        <a href="#">5 loại sen đá dễ trồng cho người mới bắt đầu.</a>
+                                                    </h2>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <div class="widgets-list-item">
+                                                <div class="widgets-list-img">
+                                                    <a href="#">
+                                                        <img class="img-full" src="~/greenoasisassets/images/blog/small-size/1-3-70x70.png" alt="Blog Images">
+                                                    </a>
+                                                </div>
+                                                <div class="widgets-list-content">
+                                                    <div class="widgets-meta">
+                                                        <ul>
+                                                            <li class="date">
+                                                                23 March 2025
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <h2 class="title mb-0">
+                                                        <a href="#">10 sai lầm mà ai cũng mắc phải khi chăm sóc sen đá</a>
+                                                    </h2>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide without-border">
+                                            <div class="widgets-list-item">
+                                                <div class="widgets-list-img">
+                                                    <a href="#">
+                                                        <img class="img-full" src="~/greenoasisassets/images/blog/small-size/1-1-70x70.png" alt="Blog Images">
+                                                    </a>
+                                                </div>
+                                                <div class="widgets-list-content">
+                                                    <div class="widgets-meta">
+                                                        <ul>
+                                                            <li class="date">
+                                                                22 March 2025
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <h2 class="title mb-0">
+                                                        <a href="#">6 mẹo cần lưu ý khi chăm sóc cây xương rồng</a>
+                                                    </h2>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="widgets-item">
+                                <h2 class="widgets-title mb-4">Thẻ Phổ Biến</h2>
+                                <ul class="widgets-tag">
+                                    <li>
+                                        <a href="#">Sen Đá</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Xương Rồng</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Chăm Sóc Cây</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Chậu Cây</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Phân Bón</a>
+                                    </li>
+
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="banner-item widgets-banner img-hover-effect">
+                            <div class="banner-img">
+                                <img src="~/greenoasisassets/images/sidebar/banner/1-270x300.jpg" alt="Banner Image">
+                            </div>
+                            <div class="banner-content text-position-center">
+                                <span class="collection">New Collection</span>
+                                <h3 class="title">Plant Port</h3>
+                                <div class="button-wrap">
+                                    <a class="btn btn-custom-size sm-size btn-pronia-primary" href="shop.html">
+                                        Shop
+                                        Now
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-9 col-lg-8 order-1">
+                    <div class="blog-detail-item">
+                        <div class="blog-content">
+                            <div class="blog-meta">
+                                <ul>
+                                    <li class="author">
+                                        <a href="#">By: Green Oasis</a>
+                                    </li>
+                                    <li class="date">22 March 2025</li>
+                                </ul>
+                            </div>
+                            <h2 class="title">6 mẹo cần lưu ý khi chăm sóc cây xương rồng</h2>
+                            <p class="short-desc">
+                                Xương rồng là loại cây dễ trồng nhưng nếu không chăm sóc đúng cách, tưới nước không đúng cách,
+                                đặt cây ở nơi thiếu sáng hoặc sử dụng loại đất không phù hợp, xương rồng có thể bị thối rễ, héo úa hoặc chậm phát triển.
+                                Chính vì thế, trong bài viết này, Green Oasis sẽ mách nhỏ bạn 6 bí kíp để xương rồng nhà mình luôn khỏe mạnh và xinh tươi như "nàng thơ" sa mạc!"
+                            </p>
+                        </div>
+                        <div class="blog-img img-hover-effect">
+                            <img class="img-full" src="~/greenoasisassets/images/blog/large-size/1-1-768x546.jpg" alt="Blog Image">
+                        </div>
+                        <p class="short-desc">
+                            <strong>1. Ánh sáng:</strong>  Xương rồng, với nguồn gốc từ những vùng sa mạc khắc nghiệt, đã tiến hóa để thích nghi với ánh sáng mặt trời mạnh mẽ.
+                            Ánh sáng đóng vai trò vô cùng quan trọng trong quá trình quang hợp, giúp cây tạo ra năng lượng để sinh trưởng và phát triển.
+                            Việc cung cấp đủ ánh sáng không chỉ giúp xương rồng duy trì hình dáng đặc trưng mà còn đảm bảo màu sắc tươi tắn và sức khỏe tổng thể. Để đảm bảo cây nhận đủ ánh sáng,
+                            hãy đặt chúng ở cửa sổ hướng Nam hoặc hướng Tây, nơi chúng có thể tắm mình trong ánh nắng trực tiếp ít nhất 6-8 giờ mỗi ngày. <br> <br>
+                            <strong>2. Tưới nước:</strong> Một trong những sai lầm phổ biến nhất trong việc chăm sóc xương rồng là tưới nước quá nhiều.
+                            Xương rồng, với khả năng dự trữ nước tuyệt vời, có thể chịu đựng được những điều kiện khô hạn. Việc tưới nước quá thường xuyên có thể dẫn đến tình trạng úng nước, gây thối rễ và làm chết cây.
+                            Nguyên tắc vàng trong việc tưới nước cho xương rồng là "ít hơn là nhiều hơn". Chỉ tưới nước khi đất trong chậu đã hoàn toàn khô. <br> <br>
+                            <strong>3. Đất:</strong> Loại đất trồng đóng vai trò quan trọng trong sự phát triển của xương rồng. Đất thoát nước tốt là yếu tố then chốt để ngăn ngừa tình trạng úng nước,
+                            một trong những nguyên nhân chính gây chết cây.
+                            Xương rồng cần một môi trường đất thoáng khí, cho phép nước thừa thoát ra nhanh chóng, đồng thời cung cấp đủ độ ẩm cần thiết cho rễ.
+                        </p>
+
+
+
+
+                        <blockquote>
+                            <p class="mb-0">
+                                A cactus's love is silent, but it endures.
+                            </p>
+                        </blockquote>
+                        <p class="short-desc">
+                            <strong>4. Chậu:</strong> Việc lựa chọn chậu phù hợp cũng quan trọng không kém trong việc chăm sóc xương rồng.
+                            Kích cỡ và chất liệu của chậu có thể ảnh hưởng đến khả năng thoát nước, sự phát triển của rễ và sức khỏe tổng thể của cây.
+                            Chọn chậu có kích thước vừa phải, không quá lớn so với kích thước của cây. Chậu quá lớn có thể giữ quá nhiều nước, làm tăng nguy cơ thối rễ. <br> <br>
+                            <strong>5. Bón phân:</strong> Xương rồng, giống như bất kỳ loại cây nào khác, cần các chất dinh dưỡng để phát triển khỏe mạnh. Tuy nhiên, việc bón phân cho xương rồng cần được
+                            thực hiện một cách cẩn thận và vừa đủ.
+                            Bón phân quá nhiều có thể gây hại cho cây, thậm chí làm chết cây. Chỉ bón phân cho xương rồng trong mùa sinh trưởng, tức là mùa xuân và mùa hè, khi cây đang tích cực phát triển. <br> <br>
+                            <strong>6. Phòng trừ sâu bệnh:</strong> Mặc dù xương rồng là loại cây tương đối dễ chăm sóc, chúng vẫn có thể bị tấn công bởi sâu bệnh.
+                            Các loại sâu bệnh thường gặp trên xương rồng bao gồm rệp sáp, rệp vảy, nhện đỏ và nấm bệnh. Việc phát hiện sớm và xử lý kịp thời là rất quan trọng để bảo vệ sức khỏe của cây.
+                            Để phòng ngừa sâu bệnh, hãy kiểm tra cây thường xuyên để phát hiện bất kỳ dấu hiệu bất thường nào,
+                            chẳng hạn như đốm trên lá, thân cây bị biến dạng hoặc sự xuất hiện của côn trùng.
+                        </p>
+                        <div class="blog-banner row">
+                            <div class="single-img img-hover-effect col-sm-6">
+                                <img class="img-full" src="~/greenoasisassets/images/blog/medium-size/2-1-370x270.jpg" alt="Blog Banner">
+                            </div>
+                            <div class="single-img img-hover-effect col-sm-6 pt-5 pt-sm-0">
+                                <img class="img-full" src="~/greenoasisassets/images/blog/medium-size/2-2-370x270.jpg" alt="Blog Banner">
+                            </div>
+                        </div>
+                        <p class="short-desc mb-0">
+                            Xương rồng không chỉ là loại cây dễ chăm sóc mà còn mang đến vẻ đẹp độc đáo cho không gian sống của bạn.
+                            Với 6 mẹo đơn giản trên, Green Oasis hy vọng bạn sẽ có những chậu xương rồng khỏe mạnh và rực rỡ. Hãy cùng Green Oasis tạo nên một không gian xanh mát và đầy sức sống nhé!
+                        </p>
+                    </div>
+                    <div class="social-with-tags">
+                        <div class="tags">
+                            <span class="title">Thẻ: </span>
+                            <ul>
+                                <li>
+                                    <a href="#">xương rồng,</a>
+                                </li>
+                                <li>
+                                    <a href="#">chăm sóc cây xương rồng</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="social-link">
+                            <ul>
+                                <li>
+                                    <a href="#" data-tippy="Facebook" data-tippy-inertia="true" data-tippy-animation="shift-away" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-theme="sharpborder">
+                                        <i class="fa fa-facebook"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" data-tippy="Dribbble" data-tippy-inertia="true" data-tippy-animation="shift-away" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-theme="sharpborder">
+                                        <i class="fa fa-dribbble"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" data-tippy="Pinterest" data-tippy-inertia="true" data-tippy-animation="shift-away" data-tippy-delay="50" data-tippy-arrow="true" data-tippy-theme="sharpborder">
+                                        <i class="fa fa-pinterest-p"></i>
+                                    </a>
+                                </li>
+                                <li class="comment">
+                                    <a href="#">
+                                        <span>2</span>
+                                        <i class="fa fa-comments"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="blog-comment">
+                        <h4 class="heading">Bình luận (03)</h4>
+                        <div class="blog-comment-item">
+                            <div class="blog-comment-img">
+                                <img src="~/greenoasisassets/images/blog/avatar/1-1-120x120.png" alt="User Image">
+                            </div>
+                            <div class="blog-comment-content">
+                                <div class="user-meta">
+                                    <h2 class="user-name">Lan Anh</h2>
+                                    <span class="date">24 March 2025</span>
+                                </div>
+                                <p class="user-comment">
+                                    Bài viết này đúng là cứu tinh cho mấy chậu xương rồng của mình! Trước giờ mình toàn tưới nước theo cảm hứng,
+                                    lúc thì nhiều lúc thì ít, nên cây cứ èo uột mãi.
+                                    Đọc xong bài này mới vỡ lẽ ra nhiều điều. Cảm ơn Green Oasis đã chia sẻ những mẹo chăm sóc xương rồng cực kỳ hữu ích nhé!
+                                </p>
+                                <a class="btn btn-custom-size comment-btn" href="#">Trả lời</a>
+                            </div>
+                        </div>
+                        <div class="blog-comment-item relpy-item">
+                            <div class="blog-comment-img">
+                                <img src="~/greenoasisassets/images/blog/avatar/1-2-120x120.png" alt="User Image">
+                            </div>
+                            <div class="blog-comment-content">
+                                <div class="user-meta">
+                                    <h2 class="user-name">Thu Hà</h2>
+                                    <span class="date">25 March 2025</span>
+                                </div>
+                                <p class="user-comment">
+                                    Tuyệt vời! Bài viết này đã giải đáp được hết những thắc mắc của mình về việc chăm sóc xương rồng.
+                                    Mình đặc biệt thích phần nói về cách chọn đất và tưới nước, vì đây là hai vấn đề mình gặp khó khăn nhất. Nhờ bài viết này, mấy em xương rồng của mình
+                                    đã bắt đầu xanh tươi trở lại rồi. Green Oasis đúng là 'cứu cánh' cho những người yêu xương rồng!
+                                </p>
+                                <a class="btn btn-custom-size comment-btn style-2" href="#">Trả lời</a>
+                            </div>
+                        </div>
+                        <div class="blog-comment-item">
+                            <div class="blog-comment-img">
+                                <img src="~/greenoasisassets/images/blog/avatar/1-3-120x120.png" alt="User Image">
+                            </div>
+                            <div class="blog-comment-content">
+                                <div class="user-meta">
+                                    <h2 class="user-name">Minh Tuấn</h2>
+                                    <span class="date">26 March 2025</span>
+                                </div>
+                                <p class="user-comment">
+                                    Mình là người mới tập tành trồng xương rồng, nên mấy mẹo này đối với mình rất cần thiết.
+                                    Bài viết không chỉ dễ hiểu mà còn rất chi tiết, giúp mình tự tin hơn trong việc chăm sóc cây.
+                                    Giờ thì mình đã biết cách chọn đất, đặt cây ở đâu và tưới nước như thế nào cho đúng chuẩn rồi. Cảm ơn Green Oasis nhiều lắm!
+                                </p>
+                                <a class="btn btn-custom-size comment-btn" href="#">Trả lời</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="feedback-area">
+                        <h2 class="heading">Để lại bình luận</h2>
+                        <form class="feedback-form" action="#">
+                            <div class="group-input">
+                                <div class="form-field me-md-30 mb-30 mb-md-0">
+                                    <input type="text" name="name" placeholder="Tên của bạn*" class="input-field">
+                                </div>
+                                <div class="form-field">
+                                    <input type="text" name="email" placeholder="Email của bạn*" class="input-field">
+                                </div>
+                            </div>
+                            <div class="form-field mt-30">
+                                <input type="text" name="subject" placeholder="Chủ đề (Không bắt buộc)" class="input-field">
+                            </div>
+                            <div class="form-field mt-30">
+                                <textarea name="message" placeholder="Lời nhắn" class="textarea-field"></textarea>
+                            </div>
+                            <div class="button-wrap pt-5">
+                                <button type="submit" value="submit" class="btn btn-custom-size xl-size btn-pronia-primary" name="submit">
+                                    Post
+                                    Comment
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+<!-- Main Content Area End Here -->

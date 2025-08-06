@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Downloads\GreenOasisAll\ModelClasses\bin\Debug\net8.0\ModelClasses.deps.json
+C:\Users\ADMIN\Downloads\GreenOasisAll\ModelClasses\bin\Debug\net8.0\ModelClasses.dll
+C:\Users\ADMIN\Downloads\GreenOasisAll\ModelClasses\bin\Debug\net8.0\ModelClasses.pdb
+C:\Users\ADMIN\Downloads\GreenOasisAll\ModelClasses\obj\Debug\net8.0\ModelClasses.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\GreenOasisAll\ModelClasses\obj\Debug\net8.0\ModelClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\GreenOasisAll\ModelClasses\obj\Debug\net8.0\ModelClasses.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\GreenOasisAll\ModelClasses\obj\Debug\net8.0\ModelClasses.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\GreenOasisAll\ModelClasses\obj\Debug\net8.0\ModelClasses.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\GreenOasisAll\ModelClasses\obj\Debug\net8.0\ModelClasses.dll
+C:\Users\ADMIN\Downloads\GreenOasisAll\ModelClasses\obj\Debug\net8.0\refint\ModelClasses.dll
+C:\Users\ADMIN\Downloads\GreenOasisAll\ModelClasses\obj\Debug\net8.0\ModelClasses.pdb
+C:\Users\ADMIN\Downloads\GreenOasisAll\ModelClasses\obj\Debug\net8.0\ref\ModelClasses.dll
+C:\Users\ADMIN\Downloads\GreenOasisAll\ModelClasses\obj\Debug\net8.0\ModelClasses.sourcelink.json

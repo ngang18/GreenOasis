@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Downloads\Nhom_2\GreenOasisAll\GreenOasisAll\wwwroot\greenoasisassets\._.DS_Store
+C:\Users\ADMIN\Downloads\Nhom_2\GreenOasisAll\GreenOasisAll\wwwroot\greenoasisassets\._css
+C:\Users\ADMIN\Downloads\Nhom_2\GreenOasisAll\GreenOasisAll\wwwroot\greenoasisassets\._fonts
+C:\Users\ADMIN\Downloads\Nhom_2\GreenOasisAll\GreenOasisAll\wwwroot\greenoasisassets\._images
+C:\Users\ADMIN\Downloads\Nhom_2\GreenOasisAll\GreenOasisAll\wwwroot\greenoasisassets\._js
+C:\Users\ADMIN\Downloads\Nhom_2\GreenOasisAll\GreenOasisAll\wwwroot\greenoasisassets\._php
+C:\Users\ADMIN\Downloads\Nhom_2\GreenOasisAll\GreenOasisAll\wwwroot\greenoasisassets\._scss
