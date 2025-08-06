@@ -1,13 +1,17 @@
-# GreenOasisAll update
+# GreenOasis - Introduction
 
-0.1: (17/5/2024) Phiên bản đầu 
+
+# GreenOasisAll - Updates
+
+0.1: (17/5/2024)
+- First version
 
 0.2: (18/5/2024 - 14h)
-- Fix lỗi Login bằng form
-- Tạo tín năng ExternalLogin
+- Fix login error using the form
+- Create the ExternalLogin feature
 
 0.3: (18/5/2024 - 22h)
-- Fix lỗi Button thêm xóa sản phẩm trong Cart User
-- Tạo Trang Thankyou khi nhấn submit from trong Contact
-- Tạo tính năng Wishlist
-# GreenOasis
+- Fix the issue with the add/remove product button in the User Cart
+- Create a Thank You page when submitting the form in Contact
+- Create a Wishlist feature
+
