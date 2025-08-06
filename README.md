@@ -1,10 +1,10 @@
 # GreenOasis - Introduction
-This is a group project for the course E-Commerce Application Development, developed by Group 2. The goal is to build a complete e-commerce website with both a modern frontend interface and a fully functional backend system.
-- The frontend is built using the Botanical HTML5 eCommerce Template, offering a clean, modern, and user-friendly design focused on enhancing the shopping experience.
-- The backend follows the tutorial series from JahirTech YouTube Channel, developed with .NET Core and Entity Framework, providing secure and efficient data handling.
+This is a group project for the course E-Commerce Application Development, developed by Group 2.
+
+- The frontend is built using the Botanical HTML5 eCommerce Template (https://elements.envato.com/botanical-html5-ecommerce-template-TGMD7D6)
+- The backend follows the tutorial series from JahirTech YouTube Channel, developed with .NET Core and Entity Framework, providing secure and efficient data handling (https://www.youtube.com/playlist?list=PLRZxInSY21u00HJH44cGhCe72KfZstqgH)
+
 The main objective of this project is to gain hands-on experience in designing, developing, and deploying an e-commerce application — applying theoretical knowledge to practical scenarios across frontend UI design, backend development, and database management.
-* Frontend: https://elements.envato.com/botanical-html5-ecommerce-template-TGMD7D6
-* Backend: https://www.youtube.com/playlist?list=PLRZxInSY21u00HJH44cGhCe72KfZstqgH
 
 # GreenOasisAll - Updates
 
